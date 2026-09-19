@@ -1,0 +1,7886 @@
+.primary {
+  align-items: center;
+  background-color: rgb(29, 28, 25);
+  background-position: 0px 0px;
+  border-color: rgb(0, 0, 238);
+  border-radius: 2px;
+  color: rgb(0, 0, 238);
+  cursor: pointer;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  flex: 0 1 auto;
+  font-family: sans-serif;
+  font-size: 12px;
+  font-stretch: 100%;
+  font-weight: 400;
+  gap: 10px;
+  grid-auto-flow: row;
+  height: 46px;
+  justify-content: center;
+  object-fit: fill;
+  overflow: visible;
+  padding-bottom: 15px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 15px;
+  place-items: center normal;
+  position: relative;
+  text-align: start;
+  transform-origin: 83px 23px;
+  width: 166px;
+}
+
+.div {
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(0, 0, 238);
+  color: rgb(0, 0, 238);
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  flex: 0 0 auto;
+  font-family: sans-serif;
+  font-size: 12px;
+  font-stretch: 100%;
+  font-weight: 400;
+  grid-auto-flow: row;
+  height: 13px;
+  justify-content: flex-start;
+  object-fit: fill;
+  overflow: visible;
+  position: relative;
+  text-align: start;
+  transform-origin: 50px 6.5px;
+  white-space: pre;
+  width: 100px;
+}
+
+.p {
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(255, 255, 255);
+  color: rgb(255, 255, 255);
+  cursor: pointer;
+  display: block;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  flex: 0 1 auto;
+  font-family: "Instrument Sans", "Instrument Sans Placeholder", sans-serif;
+  font-size: 13px;
+  font-stretch: 100%;
+  font-weight: 600;
+  grid-auto-flow: row;
+  height: 13px;
+  line-height: 13px;
+  object-fit: fill;
+  overflow: visible;
+  position: static;
+  text-align: start;
+  transform-origin: 50px 6.5px;
+  white-space: pre;
+  width: 100px;
+}
+
+.svg {
+  aspect-ratio: 1 / 1;
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(0, 0, 238);
+  color: rgb(0, 0, 238);
+  cursor: pointer;
+  display: block;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  flex: 0 0 auto;
+  font-family: sans-serif;
+  font-size: 12px;
+  font-stretch: 100%;
+  font-weight: 400;
+  grid-auto-flow: row;
+  height: 16px;
+  min-height: 0;
+  object-fit: fill;
+  overflow: hidden;
+  position: relative;
+  text-align: start;
+  transform-origin: 8px 8px;
+  width: 16px;
+}
+
+.primary-2 {
+  align-items: center;
+  background-color: rgb(29, 28, 25);
+  background-position: 0px 0px;
+  border-color: rgb(0, 0, 0);
+  border-radius: 2px;
+  color: rgb(0, 0, 0);
+  cursor: pointer;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  flex: 0 1 auto;
+  font-family: sans-serif;
+  font-size: 12px;
+  font-stretch: 100%;
+  font-weight: 400;
+  gap: 10px;
+  grid-auto-flow: row;
+  height: 46px;
+  justify-content: center;
+  object-fit: fill;
+  overflow: visible;
+  padding-bottom: 15px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 15px;
+  place-items: center normal;
+  position: relative;
+  text-align: start;
+  transform-origin: 88px 23px;
+}
+
+.div-2 {
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(0, 0, 0);
+  color: rgb(0, 0, 0);
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  flex: 0 0 auto;
+  font-family: sans-serif;
+  font-size: 12px;
+  font-stretch: 100%;
+  font-weight: 400;
+  grid-auto-flow: row;
+  height: 13px;
+  justify-content: flex-start;
+  object-fit: fill;
+  overflow: visible;
+  position: relative;
+  text-align: start;
+  transform-origin: 55px 6.5px;
+  white-space: pre;
+}
+
+.p-2 {
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(255, 255, 255);
+  color: rgb(255, 255, 255);
+  cursor: pointer;
+  display: block;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  flex: 0 1 auto;
+  font-family: "Instrument Sans", "Instrument Sans Placeholder", sans-serif;
+  font-size: 13px;
+  font-stretch: 100%;
+  font-weight: 600;
+  grid-auto-flow: row;
+  height: 13px;
+  line-height: 13px;
+  object-fit: fill;
+  overflow: visible;
+  position: static;
+  text-align: start;
+  transform-origin: 55px 6.5px;
+  white-space: pre;
+}
+
+.svg-2 {
+  aspect-ratio: 1 / 1;
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(0, 0, 0);
+  color: rgb(0, 0, 0);
+  cursor: pointer;
+  display: block;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  flex: 0 0 auto;
+  font-family: sans-serif;
+  font-size: 12px;
+  font-stretch: 100%;
+  font-weight: 400;
+  grid-auto-flow: row;
+  height: 16px;
+  min-height: 0;
+  object-fit: fill;
+  overflow: hidden;
+  position: relative;
+  text-align: start;
+  transform-origin: 8px 8px;
+  width: 16px;
+}
+
+.svg-3 {
+  aspect-ratio: 1 / 1;
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(0, 0, 0);
+  bottom: 356px;
+  color: rgb(0, 0, 0);
+  cursor: pointer;
+  display: block;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  flex: 0 0 auto;
+  font-family: sans-serif;
+  font-size: 12px;
+  font-stretch: 100%;
+  font-weight: 400;
+  grid-auto-flow: row;
+  height: 18px;
+  left: 16px;
+  min-height: 0;
+  object-fit: fill;
+  overflow: hidden;
+  position: absolute;
+  right: 322px;
+  text-align: start;
+  top: 16px;
+  transform-origin: 9px 9px;
+  width: 18px;
+}
+
+.div-3 {
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(0, 0, 0);
+  color: rgb(0, 0, 0);
+  display: block;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  flex: 0 1 auto;
+  font-family: sans-serif;
+  font-size: 12px;
+  font-stretch: 100%;
+  font-weight: 400;
+  grid-auto-flow: row;
+  object-fit: fill;
+  overflow: visible;
+  position: static;
+  text-align: start;
+  transform-origin: 720px 0px;
+  width: 1440px;
+}
+
+.logo {
+  aspect-ratio: 0.6 / 1;
+  background-color: rgb(0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(0, 0, 238);
+  bottom: -2px;
+  color: rgb(0, 0, 238);
+  cursor: pointer;
+  display: block;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  flex: 0 0 auto;
+  font-family: sans-serif;
+  font-size: 12px;
+  font-stretch: 100%;
+  font-weight: 400;
+  grid-auto-flow: row;
+  height: 20px;
+  left: 6px;
+  object-fit: fill;
+  overflow: visible;
+  position: absolute;
+  right: -6px;
+  text-align: start;
+  top: -2px;
+  transform-origin: 6px 10px;
+  transform: matrix(1, 0, 0, 1, -6, 0);
+  width: 12px;
+}
+
+.text {
+  aspect-ratio: 9.7 / 1;
+  background-color: rgb(0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(0, 0, 238);
+  color: rgb(0, 0, 238);
+  cursor: pointer;
+  display: block;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  flex: 0 0 auto;
+  font-family: sans-serif;
+  font-size: 12px;
+  font-stretch: 100%;
+  font-weight: 400;
+  grid-auto-flow: row;
+  height: 10px;
+  object-fit: fill;
+  overflow: visible;
+  position: relative;
+  text-align: start;
+  transform-origin: 48.5px 5px;
+  width: 97px;
+}
+
+.div-4 {
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(0, 0, 0);
+  color: rgb(0, 0, 0);
+  display: block;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  flex: 0 1 auto;
+  font-family: sans-serif;
+  font-size: 12px;
+  font-stretch: 100%;
+  font-weight: 400;
+  grid-auto-flow: row;
+  height: 5699.62px;
+  object-fit: fill;
+  overflow: visible;
+  position: static;
+  text-align: start;
+  transform-origin: 720px 2849.81px;
+  width: 1440px;
+}
+
+.div-5 {
+  align-items: center;
+  background-color: rgb(244, 241, 235);
+  background-position: 0% 0%;
+  border-color: rgb(0, 0, 0);
+  color: rgb(0, 0, 0);
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  flex: 0 1 auto;
+  font-family: sans-serif;
+  font-size: 12px;
+  font-stretch: 100%;
+  font-weight: 400;
+  grid-auto-flow: row;
+  height: 5699.62px;
+  justify-content: flex-start;
+  min-height: 900px;
+  object-fit: fill;
+  overflow: clip;
+  place-items: center normal;
+  position: relative;
+  text-align: start;
+  transform-origin: 720px 2849.81px;
+  width: 1440px;
+}
+
+.roomify-navigation {
+  align-items: center;
+  background-color: rgba(244, 241, 235, 0.92);
+  background-position: 0% 0%;
+  border-color: rgb(0, 0, 0);
+  color: rgb(0, 0, 0);
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  flex: 0 0 auto;
+  font-family: sans-serif;
+  font-size: 12px;
+  font-stretch: 100%;
+  font-weight: 400;
+  gap: 24px;
+  grid-auto-flow: row;
+  height: 70px;
+  justify-content: flex-start;
+  object-fit: fill;
+  overflow: visible;
+  padding-bottom: 18px;
+  padding-left: 48px;
+  padding-right: 48px;
+  padding-top: 18px;
+  place-items: center normal;
+  position: sticky;
+  text-align: start;
+  transform-origin: 600px 35px;
+  width: 1200px;
+  z-index: 5;
+}
+
+.roomify-wordmark {
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(0, 0, 0);
+  color: rgb(0, 0, 0);
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  flex: 0 0 auto;
+  font-family: sans-serif;
+  font-size: 12px;
+  font-stretch: 100%;
+  font-weight: 400;
+  grid-auto-flow: row;
+  height: 15px;
+  justify-content: flex-start;
+  object-fit: fill;
+  overflow: visible;
+  position: relative;
+  text-align: start;
+  transform-origin: 42.5px 7.5px;
+  white-space: pre;
+  width: 85px;
+}
+
+.p-3 {
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(29, 28, 25);
+  color: rgb(29, 28, 25);
+  display: block;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  flex: 0 1 auto;
+  font-family: "Instrument Sans", "Instrument Sans Placeholder", sans-serif;
+  font-size: 15px;
+  font-stretch: 100%;
+  font-weight: 600;
+  grid-auto-flow: row;
+  height: 15px;
+  letter-spacing: 2px;
+  line-height: 15px;
+  object-fit: fill;
+  overflow: visible;
+  position: static;
+  text-align: start;
+  transform-origin: 42.5px 7.5px;
+  white-space: pre;
+  width: 85px;
+}
+
+.navigation-links {
+  align-items: center;
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(0, 0, 0);
+  color: rgb(0, 0, 0);
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  flex: 1 0 0px;
+  font-family: sans-serif;
+  font-size: 12px;
+  font-stretch: 100%;
+  font-weight: 400;
+  gap: 26px;
+  grid-auto-flow: row;
+  height: 13px;
+  justify-content: center;
+  object-fit: fill;
+  overflow: visible;
+  place-items: center normal;
+  position: relative;
+  text-align: start;
+  transform-origin: 397px 6.5px;
+  width: 794px;
+}
+
+.div-6 {
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(0, 0, 0);
+  color: rgb(0, 0, 0);
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  flex: 0 0 auto;
+  font-family: sans-serif;
+  font-size: 12px;
+  font-stretch: 100%;
+  font-weight: 400;
+  grid-auto-flow: row;
+  height: 13px;
+  justify-content: flex-start;
+  object-fit: fill;
+  overflow: visible;
+  position: relative;
+  text-align: start;
+  transform-origin: 23px 6.5px;
+  white-space: pre;
+  width: 46px;
+}
+
+.p-4 {
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(0, 0, 0);
+  color: rgb(0, 0, 0);
+  display: block;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  flex: 0 1 auto;
+  font-family: "Instrument Sans", "Instrument Sans Placeholder", sans-serif;
+  font-size: 13px;
+  font-stretch: 100%;
+  font-weight: 500;
+  grid-auto-flow: row;
+  height: 13px;
+  line-height: 13px;
+  object-fit: fill;
+  overflow: visible;
+  position: static;
+  text-align: start;
+  transform-origin: 23px 6.5px;
+  white-space: pre;
+  width: 46px;
+}
+
+.a {
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(78, 75, 69);
+  color: rgb(78, 75, 69);
+  cursor: pointer;
+  display: inline;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  flex: 0 1 auto;
+  font-family: "Instrument Sans", "Instrument Sans Placeholder", sans-serif;
+  font-size: 13px;
+  font-stretch: 100%;
+  font-weight: 500;
+  grid-auto-flow: row;
+  line-height: 13px;
+  object-fit: fill;
+  overflow: visible;
+  position: static;
+  text-align: start;
+  transform-origin: 0px 0px;
+  white-space: pre;
+}
+
+.div-7 {
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(0, 0, 0);
+  color: rgb(0, 0, 0);
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  flex: 0 0 auto;
+  font-family: sans-serif;
+  font-size: 12px;
+  font-stretch: 100%;
+  font-weight: 400;
+  grid-auto-flow: row;
+  height: 13px;
+  justify-content: flex-start;
+  object-fit: fill;
+  overflow: visible;
+  position: relative;
+  text-align: start;
+  transform-origin: 39px 6.5px;
+  white-space: pre;
+  width: 78px;
+}
+
+.p-5 {
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(0, 0, 0);
+  color: rgb(0, 0, 0);
+  display: block;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  flex: 0 1 auto;
+  font-family: "Instrument Sans", "Instrument Sans Placeholder", sans-serif;
+  font-size: 13px;
+  font-stretch: 100%;
+  font-weight: 500;
+  grid-auto-flow: row;
+  height: 13px;
+  line-height: 13px;
+  object-fit: fill;
+  overflow: visible;
+  position: static;
+  text-align: start;
+  transform-origin: 39px 6.5px;
+  white-space: pre;
+  width: 78px;
+}
+
+.div-8 {
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(0, 0, 0);
+  color: rgb(0, 0, 0);
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  flex: 0 0 auto;
+  font-family: sans-serif;
+  font-size: 12px;
+  font-stretch: 100%;
+  font-weight: 400;
+  grid-auto-flow: row;
+  height: 13px;
+  justify-content: flex-start;
+  object-fit: fill;
+  overflow: visible;
+  position: relative;
+  text-align: start;
+  transform-origin: 18px 6.5px;
+  white-space: pre;
+  width: 36px;
+}
+
+.p-6 {
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(0, 0, 0);
+  color: rgb(0, 0, 0);
+  display: block;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  flex: 0 1 auto;
+  font-family: "Instrument Sans", "Instrument Sans Placeholder", sans-serif;
+  font-size: 13px;
+  font-stretch: 100%;
+  font-weight: 500;
+  grid-auto-flow: row;
+  height: 13px;
+  line-height: 13px;
+  object-fit: fill;
+  overflow: visible;
+  position: static;
+  text-align: start;
+  transform-origin: 18px 6.5px;
+  white-space: pre;
+  width: 36px;
+}
+
+.div-9 {
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(0, 0, 0);
+  color: rgb(0, 0, 0);
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  flex: 0 0 auto;
+  font-family: sans-serif;
+  font-size: 12px;
+  font-stretch: 100%;
+  font-weight: 400;
+  grid-auto-flow: row;
+  height: 13px;
+  justify-content: flex-start;
+  object-fit: fill;
+  overflow: visible;
+  position: relative;
+  text-align: start;
+  transform-origin: 32px 6.5px;
+  white-space: pre;
+  width: 64px;
+}
+
+.p-7 {
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(0, 0, 0);
+  color: rgb(0, 0, 0);
+  display: block;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  flex: 0 1 auto;
+  font-family: "Instrument Sans", "Instrument Sans Placeholder", sans-serif;
+  font-size: 13px;
+  font-stretch: 100%;
+  font-weight: 500;
+  grid-auto-flow: row;
+  height: 13px;
+  line-height: 13px;
+  object-fit: fill;
+  overflow: visible;
+  position: static;
+  text-align: start;
+  transform-origin: 32px 6.5px;
+  white-space: pre;
+  width: 64px;
+}
+
+.navigation-actions {
+  align-items: center;
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(0, 0, 0);
+  color: rgb(0, 0, 0);
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  flex: 0 0 auto;
+  font-family: sans-serif;
+  font-size: 12px;
+  font-stretch: 100%;
+  font-weight: 400;
+  gap: 18px;
+  grid-auto-flow: row;
+  height: 34px;
+  justify-content: center;
+  object-fit: fill;
+  overflow: visible;
+  place-items: center normal;
+  position: relative;
+  text-align: start;
+  transform-origin: 88.5px 17px;
+  width: 177px;
+}
+
+.div-10 {
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(0, 0, 0);
+  color: rgb(0, 0, 0);
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  flex: 0 0 auto;
+  font-family: sans-serif;
+  font-size: 12px;
+  font-stretch: 100%;
+  font-weight: 400;
+  grid-auto-flow: row;
+  height: 13px;
+  justify-content: flex-start;
+  object-fit: fill;
+  overflow: visible;
+  position: relative;
+  text-align: start;
+  transform-origin: 18.5px 6.5px;
+  white-space: pre;
+  width: 37px;
+}
+
+.p-8 {
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(29, 28, 25);
+  color: rgb(29, 28, 25);
+  display: block;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  flex: 0 1 auto;
+  font-family: "Instrument Sans", "Instrument Sans Placeholder", sans-serif;
+  font-size: 13px;
+  font-stretch: 100%;
+  font-weight: 500;
+  grid-auto-flow: row;
+  height: 13px;
+  line-height: 13px;
+  object-fit: fill;
+  overflow: visible;
+  position: static;
+  text-align: start;
+  transform-origin: 18.5px 6.5px;
+  white-space: pre;
+  width: 37px;
+}
+
+.start-designing {
+  align-items: center;
+  background-color: rgb(29, 28, 25);
+  background-position: 0% 0%;
+  border-color: rgb(0, 0, 238);
+  border-radius: 2px;
+  color: rgb(0, 0, 238);
+  cursor: pointer;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  flex: 0 0 auto;
+  font-family: sans-serif;
+  font-size: 12px;
+  font-stretch: 100%;
+  font-weight: 400;
+  grid-auto-flow: row;
+  height: 34px;
+  justify-content: center;
+  object-fit: fill;
+  overflow: visible;
+  padding-bottom: 11px;
+  padding-left: 18px;
+  padding-right: 18px;
+  padding-top: 11px;
+  place-items: center normal;
+  position: relative;
+  text-align: start;
+  transform-origin: 61px 17px;
+  width: 122px;
+}
+
+.div-11 {
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(0, 0, 238);
+  color: rgb(0, 0, 238);
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  flex: 0 0 auto;
+  font-family: sans-serif;
+  font-size: 12px;
+  font-stretch: 100%;
+  font-weight: 400;
+  grid-auto-flow: row;
+  height: 12px;
+  justify-content: flex-start;
+  object-fit: fill;
+  overflow: visible;
+  position: relative;
+  text-align: start;
+  transform-origin: 43px 6px;
+  white-space: pre;
+  width: 86px;
+}
+
+.p-9 {
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(255, 255, 255);
+  color: rgb(255, 255, 255);
+  cursor: pointer;
+  display: block;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  flex: 0 1 auto;
+  font-family: "Instrument Sans", "Instrument Sans Placeholder", sans-serif;
+  font-size: 12px;
+  font-stretch: 100%;
+  font-weight: 600;
+  grid-auto-flow: row;
+  height: 12px;
+  line-height: 12px;
+  object-fit: fill;
+  overflow: visible;
+  position: static;
+  text-align: start;
+  transform-origin: 43px 6px;
+  white-space: pre;
+  width: 86px;
+}
+
+.div-12 {
+  align-items: center;
+  background-color: rgb(255, 255, 255);
+  background-position: 0% 0%;
+  border-color: rgb(0, 0, 0);
+  color: rgb(0, 0, 0);
+  display: contents;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  flex: 0 1 auto;
+  font-family: sans-serif;
+  font-size: 12px;
+  font-stretch: 100%;
+  font-weight: 400;
+  grid-auto-flow: row;
+  height: min-content;
+  justify-content: flex-start;
+  min-height: 900px;
+  object-fit: fill;
+  overflow: clip;
+  place-items: center normal;
+  position: relative;
+  text-align: start;
+  transform-origin: 50% 50%;
+}
+
+.roomify-introduction {
+  align-items: center;
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(0, 0, 0);
+  color: rgb(0, 0, 0);
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  flex: 0 0 auto;
+  font-family: sans-serif;
+  font-size: 12px;
+  font-stretch: 100%;
+  font-weight: 400;
+  gap: 52px;
+  grid-auto-flow: row;
+  height: 718px;
+  justify-content: flex-start;
+  max-width: 1200px;
+  min-height: 690px;
+  object-fit: fill;
+  overflow: clip;
+  padding-bottom: 96px;
+  padding-left: 48px;
+  padding-right: 48px;
+  padding-top: 82px;
+  place-items: center normal;
+  position: relative;
+  text-align: start;
+  transform-origin: 600px 359px;
+  width: 1200px;
+}
+
+.introduction-copy {
+  align-items: flex-start;
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(0, 0, 0);
+  color: rgb(0, 0, 0);
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  flex: 1 0 0px;
+  font-family: sans-serif;
+  font-size: 12px;
+  font-stretch: 100%;
+  font-weight: 400;
+  gap: 26px;
+  grid-auto-flow: row;
+  height: 432.844px;
+  justify-content: flex-start;
+  object-fit: fill;
+  overflow: visible;
+  place-items: flex-start normal;
+  position: relative;
+  text-align: start;
+  transform-origin: 238.961px 216.422px;
+  width: 477.922px;
+}
+
+.div-13 {
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(0, 0, 0);
+  color: rgb(0, 0, 0);
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  flex: 0 0 auto;
+  font-family: sans-serif;
+  font-size: 12px;
+  font-stretch: 100%;
+  font-weight: 400;
+  grid-auto-flow: row;
+  height: 11px;
+  justify-content: flex-start;
+  object-fit: fill;
+  overflow: visible;
+  position: relative;
+  text-align: start;
+  transform-origin: 238.961px 5.5px;
+  white-space: pre-wrap;
+  width: 477.922px;
+}
+
+.p-10 {
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(113, 109, 102);
+  color: rgb(113, 109, 102);
+  display: block;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  flex: 0 1 auto;
+  font-family: "Instrument Sans", "Instrument Sans Placeholder", sans-serif;
+  font-feature-settings: "blwf", "cv03", "cv04", "cv09", "cv11";
+  font-size: 11px;
+  font-stretch: 100%;
+  font-weight: 600;
+  grid-auto-flow: row;
+  height: 11px;
+  letter-spacing: 1.4px;
+  line-height: 11px;
+  object-fit: fill;
+  overflow: visible;
+  position: static;
+  text-align: start;
+  text-transform: uppercase;
+  transform-origin: 238.961px 5.5px;
+  white-space: pre-wrap;
+  width: 477.922px;
+}
+
+.div-14 {
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(0, 0, 0);
+  color: rgb(0, 0, 0);
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  flex: 0 0 auto;
+  font-family: sans-serif;
+  font-size: 12px;
+  font-stretch: 100%;
+  font-weight: 400;
+  grid-auto-flow: row;
+  height: 223.453px;
+  justify-content: flex-start;
+  object-fit: fill;
+  overflow: visible;
+  position: relative;
+  text-align: start;
+  transform-origin: 238.961px 111.727px;
+  width: 477.922px;
+}
+
+.h1 {
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(29, 28, 25);
+  color: rgb(29, 28, 25);
+  display: block;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  flex: 0 1 auto;
+  font-family: "DM Serif Display", "DM Serif Display Placeholder", serif;
+  font-feature-settings: "blwf", "cv03", "cv04", "cv09", "cv11";
+  font-size: 76px;
+  font-stretch: 100%;
+  font-weight: 400;
+  grid-auto-flow: row;
+  height: 223.453px;
+  letter-spacing: -2px;
+  line-height: 74.48px;
+  object-fit: fill;
+  overflow: visible;
+  position: static;
+  text-align: start;
+  transform-origin: 238.961px 111.727px;
+  width: 477.922px;
+}
+
+.div-15 {
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(0, 0, 0);
+  color: rgb(0, 0, 0);
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  flex: 0 0 auto;
+  font-family: sans-serif;
+  font-size: 12px;
+  font-stretch: 100%;
+  font-weight: 400;
+  grid-auto-flow: row;
+  height: 74.3906px;
+  justify-content: flex-start;
+  object-fit: fill;
+  overflow: visible;
+  position: relative;
+  text-align: start;
+  transform-origin: 238.961px 37.1953px;
+  width: 477.922px;
+}
+
+.p-11 {
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(113, 109, 102);
+  color: rgb(113, 109, 102);
+  display: block;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  flex: 0 1 auto;
+  font-family: "Instrument Sans", "Instrument Sans Placeholder", sans-serif;
+  font-feature-settings: "blwf", "cv03", "cv04", "cv09", "cv11";
+  font-size: 16px;
+  font-stretch: 100%;
+  font-weight: 400;
+  grid-auto-flow: row;
+  height: 74.3906px;
+  line-height: 24.8px;
+  object-fit: fill;
+  overflow: visible;
+  position: static;
+  text-align: start;
+  transform-origin: 238.961px 37.1953px;
+  width: 477.922px;
+}
+
+.introduction-actions {
+  align-items: center;
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(0, 0, 0);
+  color: rgb(0, 0, 0);
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  flex: 0 0 auto;
+  font-family: sans-serif;
+  font-size: 12px;
+  font-stretch: 100%;
+  font-weight: 400;
+  gap: 22px;
+  grid-auto-flow: row;
+  height: 46px;
+  justify-content: flex-start;
+  object-fit: fill;
+  overflow: visible;
+  place-items: center normal;
+  position: relative;
+  text-align: start;
+  transform-origin: 151px 23px;
+  width: 302px;
+}
+
+.div-16 {
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(0, 0, 0);
+  color: rgb(0, 0, 0);
+  display: block;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  flex: 0 0 auto;
+  font-family: sans-serif;
+  font-size: 12px;
+  font-stretch: 100%;
+  font-weight: 400;
+  grid-auto-flow: row;
+  height: 46px;
+  object-fit: fill;
+  overflow: visible;
+  position: relative;
+  text-align: start;
+  transform-origin: 83px 23px;
+  width: 166px;
+}
+
+.div-17 {
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(0, 0, 0);
+  color: rgb(0, 0, 0);
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  flex: 0 0 auto;
+  font-family: sans-serif;
+  font-size: 12px;
+  font-stretch: 100%;
+  font-weight: 400;
+  grid-auto-flow: row;
+  height: 13px;
+  justify-content: flex-start;
+  object-fit: fill;
+  overflow: visible;
+  position: relative;
+  text-align: start;
+  transform-origin: 57px 6.5px;
+  white-space: pre;
+  width: 114px;
+}
+
+.p-12 {
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(29, 28, 25);
+  color: rgb(29, 28, 25);
+  display: block;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  flex: 0 1 auto;
+  font-family: "Instrument Sans", "Instrument Sans Placeholder", sans-serif;
+  font-size: 13px;
+  font-stretch: 100%;
+  font-weight: 600;
+  grid-auto-flow: row;
+  height: 13px;
+  line-height: 13px;
+  object-fit: fill;
+  overflow: visible;
+  position: static;
+  text-align: start;
+  transform-origin: 57px 6.5px;
+  white-space: pre;
+  width: 114px;
+}
+
+.a-2 {
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(78, 75, 69);
+  color: rgb(78, 75, 69);
+  cursor: pointer;
+  display: inline;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  flex: 0 1 auto;
+  font-family: "Instrument Sans", "Instrument Sans Placeholder", sans-serif;
+  font-size: 13px;
+  font-stretch: 100%;
+  font-weight: 600;
+  grid-auto-flow: row;
+  line-height: 13px;
+  object-fit: fill;
+  overflow: visible;
+  position: static;
+  text-align: start;
+  transform-origin: 0px 0px;
+  white-space: pre;
+}
+
+.hero-interior {
+  align-items: flex-start;
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(0, 0, 0);
+  border-radius: 3px;
+  color: rgb(0, 0, 0);
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  flex: 0 0 auto;
+  font-family: sans-serif;
+  font-size: 12px;
+  font-stretch: 100%;
+  font-weight: 400;
+  grid-auto-flow: row;
+  height: 540px;
+  justify-content: flex-end;
+  min-height: 0;
+  object-fit: fill;
+  overflow: clip;
+  padding-bottom: 22px;
+  padding-left: 22px;
+  padding-right: 22px;
+  padding-top: 22px;
+  place-items: flex-start normal;
+  position: relative;
+  text-align: start;
+  transform-origin: 287.039px 270px;
+  width: 574.078px;
+}
+
+.div-18 {
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(0, 0, 0);
+  border-radius: 3px;
+  color: rgb(0, 0, 0);
+  display: block;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  flex: 0 1 auto;
+  font-family: sans-serif;
+  font-size: 12px;
+  font-stretch: 100%;
+  font-weight: 400;
+  grid-auto-flow: row;
+  height: 540px;
+  object-fit: fill;
+  overflow: visible;
+  position: absolute;
+  text-align: start;
+  transform-origin: 287.039px 270px;
+  width: 574.078px;
+}
+
+.img {
+  aspect-ratio: auto 1800 / 1200;
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(0, 0, 0);
+  border-radius: 3px;
+  color: rgb(0, 0, 0);
+  display: block;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  flex: 0 1 auto;
+  font-family: sans-serif;
+  font-size: 12px;
+  font-stretch: 100%;
+  font-weight: 400;
+  grid-auto-flow: row;
+  height: 540px;
+  min-height: 0;
+  object-fit: cover;
+  overflow: clip;
+  position: static;
+  text-align: start;
+  transform-origin: 287.039px 270px;
+  width: 574.078px;
+}
+
+.ai-room-makeover {
+  align-items: center;
+  background-color: rgba(244, 241, 235, 0.92);
+  background-position: 0% 0%;
+  border-color: rgb(0, 0, 0);
+  color: rgb(0, 0, 0);
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  flex: 0 0 auto;
+  font-family: sans-serif;
+  font-size: 12px;
+  font-stretch: 100%;
+  font-weight: 400;
+  grid-auto-flow: row;
+  height: 28px;
+  justify-content: center;
+  object-fit: fill;
+  overflow: visible;
+  padding-bottom: 9px;
+  padding-left: 11px;
+  padding-right: 11px;
+  padding-top: 9px;
+  place-items: center normal;
+  position: relative;
+  text-align: start;
+  transform-origin: 72.1016px 14px;
+  width: 144.203px;
+}
+
+.div-19 {
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(0, 0, 0);
+  color: rgb(0, 0, 0);
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  flex: 0 0 auto;
+  font-family: sans-serif;
+  font-size: 12px;
+  font-stretch: 100%;
+  font-weight: 400;
+  grid-auto-flow: row;
+  height: 10px;
+  justify-content: flex-start;
+  object-fit: fill;
+  overflow: visible;
+  position: relative;
+  text-align: start;
+  transform-origin: 61.1016px 5px;
+  white-space: pre;
+  width: 122.203px;
+}
+
+.p-13 {
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(29, 28, 25);
+  color: rgb(29, 28, 25);
+  display: block;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  flex: 0 1 auto;
+  font-family: "Instrument Sans", "Instrument Sans Placeholder", sans-serif;
+  font-size: 10px;
+  font-stretch: 100%;
+  font-weight: 600;
+  grid-auto-flow: row;
+  height: 10px;
+  letter-spacing: 1.2px;
+  line-height: 10px;
+  object-fit: fill;
+  overflow: visible;
+  position: static;
+  text-align: start;
+  transform-origin: 61.1016px 5px;
+  white-space: pre;
+  width: 122.203px;
+}
+
+.how-it-works {
+  align-items: flex-start;
+  background-color: rgb(231, 225, 215);
+  background-position: 0% 0%;
+  border-color: rgb(0, 0, 0);
+  color: rgb(0, 0, 0);
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  flex: 0 0 auto;
+  font-family: sans-serif;
+  font-size: 12px;
+  font-stretch: 100%;
+  font-weight: 400;
+  gap: 46px;
+  grid-auto-flow: row;
+  height: 744px;
+  justify-content: flex-start;
+  max-width: 1200px;
+  min-height: 0;
+  object-fit: fill;
+  overflow: clip;
+  padding-bottom: 110px;
+  padding-left: 48px;
+  padding-right: 48px;
+  padding-top: 110px;
+  place-items: flex-start normal;
+  position: relative;
+  text-align: start;
+  transform-origin: 600px 372px;
+  width: 1200px;
+}
+
+.div-20 {
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(0, 0, 0);
+  color: rgb(0, 0, 0);
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  flex: 0 0 auto;
+  font-family: sans-serif;
+  font-size: 12px;
+  font-stretch: 100%;
+  font-weight: 400;
+  grid-auto-flow: row;
+  height: 50.4062px;
+  justify-content: flex-start;
+  object-fit: fill;
+  overflow: visible;
+  position: relative;
+  text-align: start;
+  transform-origin: 552px 25.2031px;
+  white-space: pre-wrap;
+  width: 1104px;
+}
+
+.h2 {
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(29, 28, 25);
+  color: rgb(29, 28, 25);
+  display: block;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  flex: 0 1 auto;
+  font-family: "DM Serif Display", "DM Serif Display Placeholder", serif;
+  font-feature-settings: "blwf", "cv03", "cv04", "cv09", "cv11";
+  font-size: 48px;
+  font-stretch: 100%;
+  font-weight: 400;
+  grid-auto-flow: row;
+  height: 50.4062px;
+  letter-spacing: -1px;
+  line-height: 50.4px;
+  object-fit: fill;
+  overflow: visible;
+  position: static;
+  text-align: start;
+  transform-origin: 552px 25.2031px;
+  white-space: pre-wrap;
+  width: 1104px;
+}
+
+.makeover-steps {
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(0, 0, 0);
+  color: rgb(0, 0, 0);
+  display: grid;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  flex: 0 0 auto;
+  font-family: sans-serif;
+  font-size: 12px;
+  font-stretch: 100%;
+  font-weight: 400;
+  gap: 20px;
+  grid-auto-flow: row;
+  grid-auto-rows: minmax(0px, 1fr);
+  grid-template-columns: 354.656px 354.672px 354.656px;
+  grid-template-rows: 427.594px;
+  height: 427.594px;
+  justify-content: start;
+  max-width: 100%;
+  object-fit: fill;
+  overflow: visible;
+  position: relative;
+  text-align: start;
+  transform-origin: 552px 213.797px;
+  width: 1104px;
+}
+
+.01-upload {
+  align-items: flex-start;
+  align-self: start;
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(0, 0, 0);
+  color: rgb(0, 0, 0);
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  flex: 0 0 auto;
+  font-family: sans-serif;
+  font-size: 12px;
+  font-stretch: 100%;
+  font-weight: 400;
+  gap: 18px;
+  grid-auto-flow: row;
+  height: 427.594px;
+  justify-content: flex-start;
+  object-fit: fill;
+  overflow: visible;
+  place-items: flex-start normal;
+  position: relative;
+  text-align: start;
+  transform-origin: 177.328px 213.797px;
+  width: 354.656px;
+}
+
+.upload-space {
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(0, 0, 0);
+  border-radius: 2px;
+  color: rgb(0, 0, 0);
+  display: block;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  flex: 0 0 auto;
+  font-family: sans-serif;
+  font-size: 12px;
+  font-stretch: 100%;
+  font-weight: 400;
+  grid-auto-flow: row;
+  height: 290px;
+  min-height: 0;
+  object-fit: fill;
+  overflow: clip;
+  position: relative;
+  text-align: start;
+  transform-origin: 177.328px 145px;
+  width: 354.656px;
+}
+
+.div-21 {
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(0, 0, 0);
+  border-radius: 2px;
+  color: rgb(0, 0, 0);
+  display: block;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  flex: 0 1 auto;
+  font-family: sans-serif;
+  font-size: 12px;
+  font-stretch: 100%;
+  font-weight: 400;
+  grid-auto-flow: row;
+  height: 290px;
+  object-fit: fill;
+  overflow: visible;
+  position: absolute;
+  text-align: start;
+  transform-origin: 177.328px 145px;
+  width: 354.656px;
+}
+
+.img-2 {
+  aspect-ratio: auto 1800 / 1347;
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(0, 0, 0);
+  border-radius: 2px;
+  color: rgb(0, 0, 0);
+  display: block;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  flex: 0 1 auto;
+  font-family: sans-serif;
+  font-size: 12px;
+  font-stretch: 100%;
+  font-weight: 400;
+  grid-auto-flow: row;
+  height: 290px;
+  min-height: 0;
+  object-fit: cover;
+  overflow: clip;
+  position: static;
+  text-align: start;
+  transform-origin: 177.328px 145px;
+  width: 354.656px;
+}
+
+.div-22 {
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(0, 0, 0);
+  color: rgb(0, 0, 0);
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  flex: 0 0 auto;
+  font-family: sans-serif;
+  font-size: 12px;
+  font-stretch: 100%;
+  font-weight: 400;
+  grid-auto-flow: row;
+  height: 11px;
+  justify-content: flex-start;
+  object-fit: fill;
+  overflow: visible;
+  position: relative;
+  text-align: start;
+  transform-origin: 177.328px 5.5px;
+  white-space: pre-wrap;
+  width: 354.656px;
+}
+
+.p-14 {
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(113, 109, 102);
+  color: rgb(113, 109, 102);
+  display: block;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  flex: 0 1 auto;
+  font-family: "Instrument Sans", "Instrument Sans Placeholder", sans-serif;
+  font-feature-settings: "blwf", "cv03", "cv04", "cv09", "cv11";
+  font-size: 11px;
+  font-stretch: 100%;
+  font-weight: 600;
+  grid-auto-flow: row;
+  height: 11px;
+  letter-spacing: 1.4px;
+  line-height: 11px;
+  object-fit: fill;
+  overflow: visible;
+  position: static;
+  text-align: start;
+  text-transform: uppercase;
+  transform-origin: 177.328px 5.5px;
+  white-space: pre-wrap;
+  width: 354.656px;
+}
+
+.div-23 {
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(0, 0, 0);
+  color: rgb(0, 0, 0);
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  flex: 0 0 auto;
+  font-family: sans-serif;
+  font-size: 12px;
+  font-stretch: 100%;
+  font-weight: 400;
+  grid-auto-flow: row;
+  height: 23px;
+  justify-content: flex-start;
+  object-fit: fill;
+  overflow: visible;
+  position: relative;
+  text-align: start;
+  transform-origin: 177.328px 11.5px;
+  white-space: pre-wrap;
+  width: 354.656px;
+}
+
+.p-15 {
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(29, 28, 25);
+  color: rgb(29, 28, 25);
+  display: block;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  flex: 0 1 auto;
+  font-family: "Instrument Sans", "Instrument Sans Placeholder", sans-serif;
+  font-size: 20px;
+  font-stretch: 100%;
+  font-weight: 600;
+  grid-auto-flow: row;
+  height: 23px;
+  line-height: 23px;
+  object-fit: fill;
+  overflow: visible;
+  position: static;
+  text-align: start;
+  transform-origin: 177.328px 11.5px;
+  white-space: pre-wrap;
+  width: 354.656px;
+}
+
+.div-24 {
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(0, 0, 0);
+  color: rgb(0, 0, 0);
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  flex: 0 0 auto;
+  font-family: sans-serif;
+  font-size: 12px;
+  font-stretch: 100%;
+  font-weight: 400;
+  grid-auto-flow: row;
+  height: 49.5938px;
+  justify-content: flex-start;
+  object-fit: fill;
+  overflow: visible;
+  position: relative;
+  text-align: start;
+  transform-origin: 177.328px 24.7969px;
+  white-space: pre-wrap;
+  width: 354.656px;
+}
+
+.p-16 {
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(113, 109, 102);
+  color: rgb(113, 109, 102);
+  display: block;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  flex: 0 1 auto;
+  font-family: "Instrument Sans", "Instrument Sans Placeholder", sans-serif;
+  font-feature-settings: "blwf", "cv03", "cv04", "cv09", "cv11";
+  font-size: 16px;
+  font-stretch: 100%;
+  font-weight: 400;
+  grid-auto-flow: row;
+  height: 49.5938px;
+  line-height: 24.8px;
+  object-fit: fill;
+  overflow: visible;
+  position: static;
+  text-align: start;
+  transform-origin: 177.328px 24.7969px;
+  white-space: pre-wrap;
+  width: 354.656px;
+}
+
+.02-choose {
+  align-items: flex-start;
+  align-self: start;
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(0, 0, 0);
+  color: rgb(0, 0, 0);
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  flex: 0 0 auto;
+  font-family: sans-serif;
+  font-size: 12px;
+  font-stretch: 100%;
+  font-weight: 400;
+  gap: 18px;
+  grid-auto-flow: row;
+  height: 427.594px;
+  justify-content: flex-start;
+  object-fit: fill;
+  overflow: visible;
+  place-items: flex-start normal;
+  position: relative;
+  text-align: start;
+  transform-origin: 177.336px 213.797px;
+  width: 354.672px;
+}
+
+.choose-direction {
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(0, 0, 0);
+  border-radius: 2px;
+  color: rgb(0, 0, 0);
+  display: block;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  flex: 0 0 auto;
+  font-family: sans-serif;
+  font-size: 12px;
+  font-stretch: 100%;
+  font-weight: 400;
+  grid-auto-flow: row;
+  height: 290px;
+  min-height: 0;
+  object-fit: fill;
+  overflow: clip;
+  position: relative;
+  text-align: start;
+  transform-origin: 177.336px 145px;
+  width: 354.672px;
+}
+
+.div-25 {
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(0, 0, 0);
+  border-radius: 2px;
+  color: rgb(0, 0, 0);
+  display: block;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  flex: 0 1 auto;
+  font-family: sans-serif;
+  font-size: 12px;
+  font-stretch: 100%;
+  font-weight: 400;
+  grid-auto-flow: row;
+  height: 290px;
+  object-fit: fill;
+  overflow: visible;
+  position: absolute;
+  text-align: start;
+  transform-origin: 177.336px 145px;
+  width: 354.672px;
+}
+
+.img-3 {
+  aspect-ratio: auto 1800 / 1378;
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(0, 0, 0);
+  border-radius: 2px;
+  color: rgb(0, 0, 0);
+  display: block;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  flex: 0 1 auto;
+  font-family: sans-serif;
+  font-size: 12px;
+  font-stretch: 100%;
+  font-weight: 400;
+  grid-auto-flow: row;
+  height: 290px;
+  min-height: 0;
+  object-fit: cover;
+  overflow: clip;
+  position: static;
+  text-align: start;
+  transform-origin: 177.336px 145px;
+  width: 354.672px;
+}
+
+.div-26 {
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(0, 0, 0);
+  color: rgb(0, 0, 0);
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  flex: 0 0 auto;
+  font-family: sans-serif;
+  font-size: 12px;
+  font-stretch: 100%;
+  font-weight: 400;
+  grid-auto-flow: row;
+  height: 11px;
+  justify-content: flex-start;
+  object-fit: fill;
+  overflow: visible;
+  position: relative;
+  text-align: start;
+  transform-origin: 177.336px 5.5px;
+  white-space: pre-wrap;
+  width: 354.672px;
+}
+
+.p-17 {
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(113, 109, 102);
+  color: rgb(113, 109, 102);
+  display: block;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  flex: 0 1 auto;
+  font-family: "Instrument Sans", "Instrument Sans Placeholder", sans-serif;
+  font-feature-settings: "blwf", "cv03", "cv04", "cv09", "cv11";
+  font-size: 11px;
+  font-stretch: 100%;
+  font-weight: 600;
+  grid-auto-flow: row;
+  height: 11px;
+  letter-spacing: 1.4px;
+  line-height: 11px;
+  object-fit: fill;
+  overflow: visible;
+  position: static;
+  text-align: start;
+  text-transform: uppercase;
+  transform-origin: 177.336px 5.5px;
+  white-space: pre-wrap;
+  width: 354.672px;
+}
+
+.div-27 {
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(0, 0, 0);
+  color: rgb(0, 0, 0);
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  flex: 0 0 auto;
+  font-family: sans-serif;
+  font-size: 12px;
+  font-stretch: 100%;
+  font-weight: 400;
+  grid-auto-flow: row;
+  height: 23px;
+  justify-content: flex-start;
+  object-fit: fill;
+  overflow: visible;
+  position: relative;
+  text-align: start;
+  transform-origin: 177.336px 11.5px;
+  white-space: pre-wrap;
+  width: 354.672px;
+}
+
+.p-18 {
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(29, 28, 25);
+  color: rgb(29, 28, 25);
+  display: block;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  flex: 0 1 auto;
+  font-family: "Instrument Sans", "Instrument Sans Placeholder", sans-serif;
+  font-size: 20px;
+  font-stretch: 100%;
+  font-weight: 600;
+  grid-auto-flow: row;
+  height: 23px;
+  line-height: 23px;
+  object-fit: fill;
+  overflow: visible;
+  position: static;
+  text-align: start;
+  transform-origin: 177.336px 11.5px;
+  white-space: pre-wrap;
+  width: 354.672px;
+}
+
+.div-28 {
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(0, 0, 0);
+  color: rgb(0, 0, 0);
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  flex: 0 0 auto;
+  font-family: sans-serif;
+  font-size: 12px;
+  font-stretch: 100%;
+  font-weight: 400;
+  grid-auto-flow: row;
+  height: 49.5938px;
+  justify-content: flex-start;
+  object-fit: fill;
+  overflow: visible;
+  position: relative;
+  text-align: start;
+  transform-origin: 177.336px 24.7969px;
+  white-space: pre-wrap;
+  width: 354.672px;
+}
+
+.p-19 {
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(113, 109, 102);
+  color: rgb(113, 109, 102);
+  display: block;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  flex: 0 1 auto;
+  font-family: "Instrument Sans", "Instrument Sans Placeholder", sans-serif;
+  font-feature-settings: "blwf", "cv03", "cv04", "cv09", "cv11";
+  font-size: 16px;
+  font-stretch: 100%;
+  font-weight: 400;
+  grid-auto-flow: row;
+  height: 49.5938px;
+  line-height: 24.8px;
+  object-fit: fill;
+  overflow: visible;
+  position: static;
+  text-align: start;
+  transform-origin: 177.336px 24.7969px;
+  white-space: pre-wrap;
+  width: 354.672px;
+}
+
+.img-4 {
+  aspect-ratio: auto 1800 / 1018;
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(0, 0, 0);
+  border-radius: 2px;
+  color: rgb(0, 0, 0);
+  display: block;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  flex: 0 1 auto;
+  font-family: sans-serif;
+  font-size: 12px;
+  font-stretch: 100%;
+  font-weight: 400;
+  grid-auto-flow: row;
+  height: 290px;
+  min-height: 0;
+  object-fit: cover;
+  overflow: clip;
+  position: static;
+  text-align: start;
+  transform-origin: 177.328px 145px;
+  width: 354.656px;
+}
+
+.interactive-room-makeover {
+  align-items: flex-start;
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(0, 0, 0);
+  color: rgb(0, 0, 0);
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  flex: 0 0 auto;
+  font-family: sans-serif;
+  font-size: 12px;
+  font-stretch: 100%;
+  font-weight: 400;
+  gap: 34px;
+  grid-auto-flow: row;
+  height: 1008.41px;
+  justify-content: flex-start;
+  max-width: 1200px;
+  min-height: 0;
+  object-fit: fill;
+  overflow: clip;
+  padding-bottom: 118px;
+  padding-left: 48px;
+  padding-right: 48px;
+  padding-top: 118px;
+  place-items: flex-start normal;
+  position: relative;
+  text-align: start;
+  transform-origin: 600px 504.203px;
+  width: 1200px;
+}
+
+.div-29 {
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(0, 0, 0);
+  color: rgb(0, 0, 0);
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  flex: 0 0 auto;
+  font-family: sans-serif;
+  font-size: 12px;
+  font-stretch: 100%;
+  font-weight: 400;
+  grid-auto-flow: row;
+  height: 11px;
+  justify-content: flex-start;
+  object-fit: fill;
+  overflow: visible;
+  position: relative;
+  text-align: start;
+  transform-origin: 552px 5.5px;
+  white-space: pre-wrap;
+  width: 1104px;
+}
+
+.p-20 {
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(113, 109, 102);
+  color: rgb(113, 109, 102);
+  display: block;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  flex: 0 1 auto;
+  font-family: "Instrument Sans", "Instrument Sans Placeholder", sans-serif;
+  font-feature-settings: "blwf", "cv03", "cv04", "cv09", "cv11";
+  font-size: 11px;
+  font-stretch: 100%;
+  font-weight: 600;
+  grid-auto-flow: row;
+  height: 11px;
+  letter-spacing: 1.4px;
+  line-height: 11px;
+  object-fit: fill;
+  overflow: visible;
+  position: static;
+  text-align: start;
+  text-transform: uppercase;
+  transform-origin: 552px 5.5px;
+  white-space: pre-wrap;
+  width: 1104px;
+}
+
+.before-and-after-comparison {
+  align-items: center;
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(0, 0, 0);
+  color: rgb(0, 0, 0);
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  flex: 0 0 auto;
+  font-family: sans-serif;
+  font-size: 12px;
+  font-stretch: 100%;
+  font-weight: 400;
+  grid-auto-flow: row;
+  height: 470px;
+  justify-content: flex-start;
+  min-height: 0;
+  object-fit: fill;
+  overflow: clip;
+  place-items: center normal;
+  position: relative;
+  text-align: start;
+  transform-origin: 552px 235px;
+  width: 1104px;
+}
+
+.before {
+  align-items: flex-start;
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(0, 0, 0);
+  color: rgb(0, 0, 0);
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  flex: 1 0 0px;
+  font-family: sans-serif;
+  font-size: 12px;
+  font-stretch: 100%;
+  font-weight: 400;
+  grid-auto-flow: row;
+  height: 470px;
+  justify-content: flex-start;
+  min-height: 0;
+  object-fit: fill;
+  overflow: clip;
+  padding-bottom: 18px;
+  padding-left: 18px;
+  padding-right: 18px;
+  padding-top: 18px;
+  place-items: flex-start normal;
+  position: relative;
+  text-align: start;
+  transform-origin: 276px 235px;
+  width: 552px;
+}
+
+.div-30 {
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(0, 0, 0);
+  color: rgb(0, 0, 0);
+  display: block;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  flex: 0 1 auto;
+  font-family: sans-serif;
+  font-size: 12px;
+  font-stretch: 100%;
+  font-weight: 400;
+  grid-auto-flow: row;
+  height: 470px;
+  object-fit: fill;
+  overflow: visible;
+  position: absolute;
+  text-align: start;
+  transform-origin: 276px 235px;
+  width: 552px;
+}
+
+.img-5 {
+  aspect-ratio: auto 1800 / 1347;
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(0, 0, 0);
+  color: rgb(0, 0, 0);
+  display: block;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  flex: 0 1 auto;
+  font-family: sans-serif;
+  font-size: 12px;
+  font-stretch: 100%;
+  font-weight: 400;
+  grid-auto-flow: row;
+  height: 470px;
+  min-height: 0;
+  object-fit: cover;
+  overflow: clip;
+  position: static;
+  text-align: start;
+  transform-origin: 276px 235px;
+  width: 552px;
+}
+
+.div-31 {
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(0, 0, 0);
+  color: rgb(0, 0, 0);
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  flex: 0 0 auto;
+  font-family: sans-serif;
+  font-size: 12px;
+  font-stretch: 100%;
+  font-weight: 400;
+  grid-auto-flow: row;
+  height: 11px;
+  justify-content: flex-start;
+  object-fit: fill;
+  overflow: visible;
+  position: relative;
+  text-align: start;
+  transform-origin: 25.9062px 5.5px;
+  white-space: pre;
+  width: 51.8125px;
+}
+
+.p-21 {
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(255, 255, 255);
+  color: rgb(255, 255, 255);
+  display: block;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  flex: 0 1 auto;
+  font-family: "Instrument Sans", "Instrument Sans Placeholder", sans-serif;
+  font-size: 11px;
+  font-stretch: 100%;
+  font-weight: 600;
+  grid-auto-flow: row;
+  height: 11px;
+  letter-spacing: 1.3px;
+  line-height: 11px;
+  object-fit: fill;
+  overflow: visible;
+  position: static;
+  text-align: start;
+  transform-origin: 25.9062px 5.5px;
+  white-space: pre;
+  width: 51.8125px;
+}
+
+.img-6 {
+  aspect-ratio: auto 1800 / 1200;
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(0, 0, 0);
+  color: rgb(0, 0, 0);
+  display: block;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  flex: 0 1 auto;
+  font-family: sans-serif;
+  font-size: 12px;
+  font-stretch: 100%;
+  font-weight: 400;
+  grid-auto-flow: row;
+  height: 470px;
+  min-height: 0;
+  object-fit: cover;
+  overflow: clip;
+  position: static;
+  text-align: start;
+  transform-origin: 276px 235px;
+  width: 552px;
+}
+
+.div-32 {
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(0, 0, 0);
+  color: rgb(0, 0, 0);
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  flex: 0 0 auto;
+  font-family: sans-serif;
+  font-size: 12px;
+  font-stretch: 100%;
+  font-weight: 400;
+  grid-auto-flow: row;
+  height: 11px;
+  justify-content: flex-start;
+  object-fit: fill;
+  overflow: visible;
+  position: relative;
+  text-align: start;
+  transform-origin: 21.25px 5.5px;
+  white-space: pre;
+  width: 42.5px;
+}
+
+.p-22 {
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(255, 255, 255);
+  color: rgb(255, 255, 255);
+  display: block;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  flex: 0 1 auto;
+  font-family: "Instrument Sans", "Instrument Sans Placeholder", sans-serif;
+  font-size: 11px;
+  font-stretch: 100%;
+  font-weight: 600;
+  grid-auto-flow: row;
+  height: 11px;
+  letter-spacing: 1.3px;
+  line-height: 11px;
+  object-fit: fill;
+  overflow: visible;
+  position: static;
+  text-align: start;
+  transform-origin: 21.25px 5.5px;
+  white-space: pre;
+  width: 42.5px;
+}
+
+.comparison-divider {
+  background-color: rgb(244, 241, 235);
+  background-position: 0% 0%;
+  border-color: rgb(0, 0, 0);
+  color: rgb(0, 0, 0);
+  cursor: col-resize;
+  display: block;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  flex: 0 0 auto;
+  font-family: sans-serif;
+  font-size: 12px;
+  font-stretch: 100%;
+  font-weight: 400;
+  grid-auto-flow: row;
+  height: 470px;
+  left: 550px;
+  object-fit: fill;
+  overflow: visible;
+  position: absolute;
+  right: 551px;
+  text-align: start;
+  transform-origin: 1.5px 235px;
+  width: 3px;
+  z-index: 2;
+}
+
+.choose-direction-2 {
+  align-items: flex-start;
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(0, 0, 0);
+  color: rgb(0, 0, 0);
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  flex: 0 0 auto;
+  font-family: sans-serif;
+  font-size: 12px;
+  font-stretch: 100%;
+  font-weight: 400;
+  gap: 16px;
+  grid-auto-flow: row;
+  height: 59px;
+  justify-content: flex-start;
+  object-fit: fill;
+  overflow: visible;
+  place-items: flex-start normal;
+  position: relative;
+  text-align: start;
+  transform-origin: 552px 29.5px;
+  width: 1104px;
+}
+
+.style-options {
+  align-items: center;
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(0, 0, 0);
+  color: rgb(0, 0, 0);
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  flex: 0 0 auto;
+  font-family: sans-serif;
+  font-size: 12px;
+  font-stretch: 100%;
+  font-weight: 400;
+  gap: 10px;
+  grid-auto-flow: row;
+  height: 32px;
+  justify-content: flex-start;
+  object-fit: fill;
+  overflow: visible;
+  place-items: center normal;
+  position: relative;
+  text-align: start;
+  transform-origin: 552px 16px;
+  width: 1104px;
+}
+
+.minimal-selected {
+  align-items: center;
+  background-color: rgb(83, 96, 82);
+  background-position: 0% 0%;
+  border-color: rgb(0, 0, 0);
+  border-radius: 2px;
+  color: rgb(0, 0, 0);
+  cursor: pointer;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  flex: 0 0 auto;
+  font-family: sans-serif;
+  font-size: 12px;
+  font-stretch: 100%;
+  font-weight: 400;
+  grid-auto-flow: row;
+  height: 32px;
+  justify-content: center;
+  object-fit: fill;
+  overflow: visible;
+  padding-bottom: 10px;
+  padding-left: 14px;
+  padding-right: 14px;
+  padding-top: 10px;
+  place-items: center normal;
+  position: relative;
+  text-align: start;
+  transform-origin: 36.5px 16px;
+  width: 73px;
+}
+
+.div-33 {
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(0, 0, 0);
+  color: rgb(0, 0, 0);
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  flex: 0 0 auto;
+  font-family: sans-serif;
+  font-size: 12px;
+  font-stretch: 100%;
+  font-weight: 400;
+  grid-auto-flow: row;
+  height: 12px;
+  justify-content: flex-start;
+  object-fit: fill;
+  overflow: visible;
+  position: relative;
+  text-align: start;
+  transform-origin: 22.5px 6px;
+  white-space: pre;
+  width: 45px;
+}
+
+.p-23 {
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(255, 255, 255);
+  color: rgb(255, 255, 255);
+  cursor: pointer;
+  display: block;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  flex: 0 1 auto;
+  font-family: "Instrument Sans", "Instrument Sans Placeholder", sans-serif;
+  font-size: 12px;
+  font-stretch: 100%;
+  font-weight: 600;
+  grid-auto-flow: row;
+  height: 12px;
+  line-height: 12px;
+  object-fit: fill;
+  overflow: visible;
+  position: static;
+  text-align: start;
+  transform-origin: 22.5px 6px;
+  white-space: pre;
+  width: 45px;
+}
+
+.japandi {
+  align-items: center;
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(0, 0, 0);
+  border-radius: 2px;
+  color: rgb(0, 0, 0);
+  cursor: pointer;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  flex: 0 0 auto;
+  font-family: sans-serif;
+  font-size: 12px;
+  font-stretch: 100%;
+  font-weight: 400;
+  grid-auto-flow: row;
+  height: 30px;
+  justify-content: center;
+  object-fit: fill;
+  overflow: visible;
+  padding-bottom: 9px;
+  padding-left: 13px;
+  padding-right: 13px;
+  padding-top: 9px;
+  place-items: center normal;
+  position: relative;
+  text-align: start;
+  transform-origin: 34.5px 15px;
+  width: 69px;
+}
+
+.div-34 {
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(0, 0, 0);
+  color: rgb(0, 0, 0);
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  flex: 0 0 auto;
+  font-family: sans-serif;
+  font-size: 12px;
+  font-stretch: 100%;
+  font-weight: 400;
+  grid-auto-flow: row;
+  height: 12px;
+  justify-content: flex-start;
+  object-fit: fill;
+  overflow: visible;
+  position: relative;
+  text-align: start;
+  transform-origin: 21.5px 6px;
+  white-space: pre;
+  width: 43px;
+}
+
+.p-24 {
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(29, 28, 25);
+  color: rgb(29, 28, 25);
+  cursor: pointer;
+  display: block;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  flex: 0 1 auto;
+  font-family: "Instrument Sans", "Instrument Sans Placeholder", sans-serif;
+  font-size: 12px;
+  font-stretch: 100%;
+  font-weight: 500;
+  grid-auto-flow: row;
+  height: 12px;
+  line-height: 12px;
+  object-fit: fill;
+  overflow: visible;
+  position: static;
+  text-align: start;
+  transform-origin: 21.5px 6px;
+  white-space: pre;
+  width: 43px;
+}
+
+.modern {
+  align-items: center;
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(0, 0, 0);
+  border-radius: 2px;
+  color: rgb(0, 0, 0);
+  cursor: pointer;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  flex: 0 0 auto;
+  font-family: sans-serif;
+  font-size: 12px;
+  font-stretch: 100%;
+  font-weight: 400;
+  grid-auto-flow: row;
+  height: 30px;
+  justify-content: center;
+  object-fit: fill;
+  overflow: visible;
+  padding-bottom: 9px;
+  padding-left: 13px;
+  padding-right: 13px;
+  padding-top: 9px;
+  place-items: center normal;
+  position: relative;
+  text-align: start;
+  transform-origin: 35px 15px;
+  width: 70px;
+}
+
+.div-35 {
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(0, 0, 0);
+  color: rgb(0, 0, 0);
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  flex: 0 0 auto;
+  font-family: sans-serif;
+  font-size: 12px;
+  font-stretch: 100%;
+  font-weight: 400;
+  grid-auto-flow: row;
+  height: 12px;
+  justify-content: flex-start;
+  object-fit: fill;
+  overflow: visible;
+  position: relative;
+  text-align: start;
+  transform-origin: 22px 6px;
+  white-space: pre;
+  width: 44px;
+}
+
+.p-25 {
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(29, 28, 25);
+  color: rgb(29, 28, 25);
+  cursor: pointer;
+  display: block;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  flex: 0 1 auto;
+  font-family: "Instrument Sans", "Instrument Sans Placeholder", sans-serif;
+  font-size: 12px;
+  font-stretch: 100%;
+  font-weight: 500;
+  grid-auto-flow: row;
+  height: 12px;
+  line-height: 12px;
+  object-fit: fill;
+  overflow: visible;
+  position: static;
+  text-align: start;
+  transform-origin: 22px 6px;
+  white-space: pre;
+  width: 44px;
+}
+
+.luxury {
+  align-items: center;
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(0, 0, 0);
+  border-radius: 2px;
+  color: rgb(0, 0, 0);
+  cursor: pointer;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  flex: 0 0 auto;
+  font-family: sans-serif;
+  font-size: 12px;
+  font-stretch: 100%;
+  font-weight: 400;
+  grid-auto-flow: row;
+  height: 30px;
+  justify-content: center;
+  object-fit: fill;
+  overflow: visible;
+  padding-bottom: 9px;
+  padding-left: 13px;
+  padding-right: 13px;
+  padding-top: 9px;
+  place-items: center normal;
+  position: relative;
+  text-align: start;
+  transform-origin: 32px 15px;
+  width: 64px;
+}
+
+.div-36 {
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(0, 0, 0);
+  color: rgb(0, 0, 0);
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  flex: 0 0 auto;
+  font-family: sans-serif;
+  font-size: 12px;
+  font-stretch: 100%;
+  font-weight: 400;
+  grid-auto-flow: row;
+  height: 12px;
+  justify-content: flex-start;
+  object-fit: fill;
+  overflow: visible;
+  position: relative;
+  text-align: start;
+  transform-origin: 19px 6px;
+  white-space: pre;
+  width: 38px;
+}
+
+.p-26 {
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(29, 28, 25);
+  color: rgb(29, 28, 25);
+  cursor: pointer;
+  display: block;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  flex: 0 1 auto;
+  font-family: "Instrument Sans", "Instrument Sans Placeholder", sans-serif;
+  font-size: 12px;
+  font-stretch: 100%;
+  font-weight: 500;
+  grid-auto-flow: row;
+  height: 12px;
+  line-height: 12px;
+  object-fit: fill;
+  overflow: visible;
+  position: static;
+  text-align: start;
+  transform-origin: 19px 6px;
+  white-space: pre;
+  width: 38px;
+}
+
+.industrial {
+  align-items: center;
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(0, 0, 0);
+  border-radius: 2px;
+  color: rgb(0, 0, 0);
+  cursor: pointer;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  flex: 0 0 auto;
+  font-family: sans-serif;
+  font-size: 12px;
+  font-stretch: 100%;
+  font-weight: 400;
+  grid-auto-flow: row;
+  height: 30px;
+  justify-content: center;
+  object-fit: fill;
+  overflow: visible;
+  padding-bottom: 9px;
+  padding-left: 13px;
+  padding-right: 13px;
+  padding-top: 9px;
+  place-items: center normal;
+  position: relative;
+  text-align: start;
+  transform-origin: 39.5px 15px;
+  width: 79px;
+}
+
+.div-37 {
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(0, 0, 0);
+  color: rgb(0, 0, 0);
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  flex: 0 0 auto;
+  font-family: sans-serif;
+  font-size: 12px;
+  font-stretch: 100%;
+  font-weight: 400;
+  grid-auto-flow: row;
+  height: 12px;
+  justify-content: flex-start;
+  object-fit: fill;
+  overflow: visible;
+  position: relative;
+  text-align: start;
+  transform-origin: 26.5px 6px;
+  white-space: pre;
+  width: 53px;
+}
+
+.p-27 {
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(29, 28, 25);
+  color: rgb(29, 28, 25);
+  cursor: pointer;
+  display: block;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  flex: 0 1 auto;
+  font-family: "Instrument Sans", "Instrument Sans Placeholder", sans-serif;
+  font-size: 12px;
+  font-stretch: 100%;
+  font-weight: 500;
+  grid-auto-flow: row;
+  height: 12px;
+  line-height: 12px;
+  object-fit: fill;
+  overflow: visible;
+  position: static;
+  text-align: start;
+  transform-origin: 26.5px 6px;
+  white-space: pre;
+  width: 53px;
+}
+
+.indian-contemporary {
+  align-items: center;
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(0, 0, 0);
+  border-radius: 2px;
+  color: rgb(0, 0, 0);
+  cursor: pointer;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  flex: 0 0 auto;
+  font-family: sans-serif;
+  font-size: 12px;
+  font-stretch: 100%;
+  font-weight: 400;
+  grid-auto-flow: row;
+  height: 30px;
+  justify-content: center;
+  object-fit: fill;
+  overflow: visible;
+  padding-bottom: 9px;
+  padding-left: 13px;
+  padding-right: 13px;
+  padding-top: 9px;
+  place-items: center normal;
+  position: relative;
+  text-align: start;
+  transform-origin: 72.5px 15px;
+  width: 145px;
+}
+
+.div-38 {
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(0, 0, 0);
+  color: rgb(0, 0, 0);
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  flex: 0 0 auto;
+  font-family: sans-serif;
+  font-size: 12px;
+  font-stretch: 100%;
+  font-weight: 400;
+  grid-auto-flow: row;
+  height: 12px;
+  justify-content: flex-start;
+  object-fit: fill;
+  overflow: visible;
+  position: relative;
+  text-align: start;
+  transform-origin: 59.5px 6px;
+  white-space: pre;
+  width: 119px;
+}
+
+.p-28 {
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(29, 28, 25);
+  color: rgb(29, 28, 25);
+  cursor: pointer;
+  display: block;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  flex: 0 1 auto;
+  font-family: "Instrument Sans", "Instrument Sans Placeholder", sans-serif;
+  font-size: 12px;
+  font-stretch: 100%;
+  font-weight: 500;
+  grid-auto-flow: row;
+  height: 12px;
+  line-height: 12px;
+  object-fit: fill;
+  overflow: visible;
+  position: static;
+  text-align: start;
+  transform-origin: 59.5px 6px;
+  white-space: pre;
+  width: 119px;
+}
+
+.scandinavian {
+  align-items: center;
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(0, 0, 0);
+  border-radius: 2px;
+  color: rgb(0, 0, 0);
+  cursor: pointer;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  flex: 0 0 auto;
+  font-family: sans-serif;
+  font-size: 12px;
+  font-stretch: 100%;
+  font-weight: 400;
+  grid-auto-flow: row;
+  height: 30px;
+  justify-content: center;
+  object-fit: fill;
+  overflow: visible;
+  padding-bottom: 9px;
+  padding-left: 13px;
+  padding-right: 13px;
+  padding-top: 9px;
+  place-items: center normal;
+  position: relative;
+  text-align: start;
+  transform-origin: 50.5px 15px;
+  width: 101px;
+}
+
+.div-39 {
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(0, 0, 0);
+  color: rgb(0, 0, 0);
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  flex: 0 0 auto;
+  font-family: sans-serif;
+  font-size: 12px;
+  font-stretch: 100%;
+  font-weight: 400;
+  grid-auto-flow: row;
+  height: 12px;
+  justify-content: flex-start;
+  object-fit: fill;
+  overflow: visible;
+  position: relative;
+  text-align: start;
+  transform-origin: 37.5px 6px;
+  white-space: pre;
+  width: 75px;
+}
+
+.p-29 {
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(29, 28, 25);
+  color: rgb(29, 28, 25);
+  cursor: pointer;
+  display: block;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  flex: 0 1 auto;
+  font-family: "Instrument Sans", "Instrument Sans Placeholder", sans-serif;
+  font-size: 12px;
+  font-stretch: 100%;
+  font-weight: 500;
+  grid-auto-flow: row;
+  height: 12px;
+  line-height: 12px;
+  object-fit: fill;
+  overflow: visible;
+  position: static;
+  text-align: start;
+  transform-origin: 37.5px 6px;
+  white-space: pre;
+  width: 75px;
+}
+
+.warm-and-organic {
+  align-items: center;
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(0, 0, 0);
+  border-radius: 2px;
+  color: rgb(0, 0, 0);
+  cursor: pointer;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  flex: 0 0 auto;
+  font-family: sans-serif;
+  font-size: 12px;
+  font-stretch: 100%;
+  font-weight: 400;
+  grid-auto-flow: row;
+  height: 30px;
+  justify-content: center;
+  object-fit: fill;
+  overflow: visible;
+  padding-bottom: 9px;
+  padding-left: 13px;
+  padding-right: 13px;
+  padding-top: 9px;
+  place-items: center normal;
+  position: relative;
+  text-align: start;
+  transform-origin: 59.5px 15px;
+  width: 119px;
+}
+
+.div-40 {
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(0, 0, 0);
+  color: rgb(0, 0, 0);
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  flex: 0 0 auto;
+  font-family: sans-serif;
+  font-size: 12px;
+  font-stretch: 100%;
+  font-weight: 400;
+  grid-auto-flow: row;
+  height: 12px;
+  justify-content: flex-start;
+  object-fit: fill;
+  overflow: visible;
+  position: relative;
+  text-align: start;
+  transform-origin: 46.5px 6px;
+  white-space: pre;
+  width: 93px;
+}
+
+.p-30 {
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(29, 28, 25);
+  color: rgb(29, 28, 25);
+  cursor: pointer;
+  display: block;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  flex: 0 1 auto;
+  font-family: "Instrument Sans", "Instrument Sans Placeholder", sans-serif;
+  font-size: 12px;
+  font-stretch: 100%;
+  font-weight: 500;
+  grid-auto-flow: row;
+  height: 12px;
+  line-height: 12px;
+  object-fit: fill;
+  overflow: visible;
+  position: static;
+  text-align: start;
+  transform-origin: 46.5px 6px;
+  white-space: pre;
+  width: 93px;
+}
+
+.div-41 {
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(0, 0, 0);
+  color: rgb(0, 0, 0);
+  display: block;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  flex: 0 0 auto;
+  font-family: sans-serif;
+  font-size: 12px;
+  font-stretch: 100%;
+  font-weight: 400;
+  grid-auto-flow: row;
+  height: 46px;
+  object-fit: fill;
+  overflow: visible;
+  position: relative;
+  text-align: start;
+  transform-origin: 88px 23px;
+  width: 176px;
+}
+
+.style-explorer {
+  align-items: flex-start;
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(0, 0, 0);
+  color: rgb(0, 0, 0);
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  flex: 0 0 auto;
+  font-family: sans-serif;
+  font-size: 12px;
+  font-stretch: 100%;
+  font-weight: 400;
+  gap: 40px;
+  grid-auto-flow: row;
+  height: 1260.41px;
+  justify-content: flex-start;
+  max-width: 1200px;
+  min-height: 0;
+  object-fit: fill;
+  overflow: clip;
+  padding-bottom: 112px;
+  padding-left: 48px;
+  padding-right: 48px;
+  padding-top: 112px;
+  place-items: flex-start normal;
+  position: relative;
+  text-align: start;
+  transform-origin: 600px 630.203px;
+  width: 1200px;
+}
+
+.interior-style-grid {
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(0, 0, 0);
+  color: rgb(0, 0, 0);
+  display: grid;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  flex: 0 0 auto;
+  font-family: sans-serif;
+  font-size: 12px;
+  font-stretch: 100%;
+  font-weight: 400;
+  gap: 18px;
+  grid-auto-flow: row;
+  grid-auto-rows: min-content;
+  grid-template-columns: 356px 356px 356px;
+  grid-template-rows: 418.5px 458.5px;
+  height: 895px;
+  justify-content: start;
+  max-width: 100%;
+  object-fit: fill;
+  overflow: visible;
+  position: relative;
+  text-align: start;
+  transform-origin: 552px 447.5px;
+  width: 1104px;
+}
+
+.minimal-style {
+  align-items: flex-start;
+  align-self: start;
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(0, 0, 0);
+  color: rgb(0, 0, 0);
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  flex: 0 0 auto;
+  font-family: sans-serif;
+  font-size: 12px;
+  font-stretch: 100%;
+  font-weight: 400;
+  gap: 14px;
+  grid-auto-flow: row;
+  height: 393.703px;
+  justify-content: flex-start;
+  object-fit: fill;
+  overflow: visible;
+  place-items: flex-start normal;
+  position: relative;
+  text-align: start;
+  transform-origin: 178px 196.852px;
+  width: 356px;
+}
+
+.minimal-interior {
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(0, 0, 0);
+  border-radius: 2px;
+  color: rgb(0, 0, 0);
+  cursor: pointer;
+  display: block;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  flex: 0 0 auto;
+  font-family: sans-serif;
+  font-size: 12px;
+  font-stretch: 100%;
+  font-weight: 400;
+  grid-auto-flow: row;
+  height: 320px;
+  min-height: 0;
+  object-fit: fill;
+  overflow: clip;
+  position: relative;
+  text-align: start;
+  transform-origin: 178px 160px;
+  width: 356px;
+}
+
+.div-42 {
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(0, 0, 0);
+  border-radius: 2px;
+  color: rgb(0, 0, 0);
+  cursor: pointer;
+  display: block;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  flex: 0 1 auto;
+  font-family: sans-serif;
+  font-size: 12px;
+  font-stretch: 100%;
+  font-weight: 400;
+  grid-auto-flow: row;
+  height: 320px;
+  object-fit: fill;
+  overflow: visible;
+  position: absolute;
+  text-align: start;
+  transform-origin: 178px 160px;
+  width: 356px;
+}
+
+.img-7 {
+  aspect-ratio: auto 1800 / 1200;
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(0, 0, 0);
+  border-radius: 2px;
+  color: rgb(0, 0, 0);
+  cursor: pointer;
+  display: block;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  flex: 0 1 auto;
+  font-family: sans-serif;
+  font-size: 12px;
+  font-stretch: 100%;
+  font-weight: 400;
+  grid-auto-flow: row;
+  height: 320px;
+  min-height: 0;
+  object-fit: cover;
+  overflow: clip;
+  position: static;
+  text-align: start;
+  transform-origin: 178px 160px;
+  width: 356px;
+}
+
+.div-43 {
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(0, 0, 0);
+  color: rgb(0, 0, 0);
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  flex: 0 0 auto;
+  font-family: sans-serif;
+  font-size: 12px;
+  font-stretch: 100%;
+  font-weight: 400;
+  grid-auto-flow: row;
+  height: 20.9062px;
+  justify-content: flex-start;
+  object-fit: fill;
+  overflow: visible;
+  position: relative;
+  text-align: start;
+  transform-origin: 178px 10.4531px;
+  white-space: pre-wrap;
+  width: 356px;
+}
+
+.p-31 {
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(29, 28, 25);
+  color: rgb(29, 28, 25);
+  cursor: pointer;
+  display: block;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  flex: 0 1 auto;
+  font-family: "Instrument Sans", "Instrument Sans Placeholder", sans-serif;
+  font-size: 19px;
+  font-stretch: 100%;
+  font-weight: 600;
+  grid-auto-flow: row;
+  height: 20.9062px;
+  line-height: 20.9px;
+  object-fit: fill;
+  overflow: visible;
+  position: static;
+  text-align: start;
+  transform-origin: 178px 10.4531px;
+  white-space: pre-wrap;
+  width: 356px;
+}
+
+.div-44 {
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(0, 0, 0);
+  color: rgb(0, 0, 0);
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  flex: 0 0 auto;
+  font-family: sans-serif;
+  font-size: 12px;
+  font-stretch: 100%;
+  font-weight: 400;
+  grid-auto-flow: row;
+  height: 24.7969px;
+  justify-content: flex-start;
+  object-fit: fill;
+  overflow: visible;
+  position: relative;
+  text-align: start;
+  transform-origin: 178px 12.3984px;
+  white-space: pre-wrap;
+  width: 356px;
+}
+
+.p-32 {
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(113, 109, 102);
+  color: rgb(113, 109, 102);
+  cursor: pointer;
+  display: block;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  flex: 0 1 auto;
+  font-family: "Instrument Sans", "Instrument Sans Placeholder", sans-serif;
+  font-feature-settings: "blwf", "cv03", "cv04", "cv09", "cv11";
+  font-size: 16px;
+  font-stretch: 100%;
+  font-weight: 400;
+  grid-auto-flow: row;
+  height: 24.7969px;
+  line-height: 24.8px;
+  object-fit: fill;
+  overflow: visible;
+  position: static;
+  text-align: start;
+  transform-origin: 178px 12.3984px;
+  white-space: pre-wrap;
+  width: 356px;
+}
+
+.japandi-style {
+  align-items: flex-start;
+  align-self: start;
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(0, 0, 0);
+  color: rgb(0, 0, 0);
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  flex: 0 0 auto;
+  font-family: sans-serif;
+  font-size: 12px;
+  font-stretch: 100%;
+  font-weight: 400;
+  gap: 14px;
+  grid-auto-flow: row;
+  height: 418.5px;
+  justify-content: flex-start;
+  object-fit: fill;
+  overflow: visible;
+  place-items: flex-start normal;
+  position: relative;
+  text-align: start;
+  transform-origin: 178px 209.25px;
+  width: 356px;
+}
+
+.div-45 {
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(0, 0, 0);
+  color: rgb(0, 0, 0);
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  flex: 0 0 auto;
+  font-family: sans-serif;
+  font-size: 12px;
+  font-stretch: 100%;
+  font-weight: 400;
+  grid-auto-flow: row;
+  height: 49.5938px;
+  justify-content: flex-start;
+  object-fit: fill;
+  overflow: visible;
+  position: relative;
+  text-align: start;
+  transform-origin: 178px 24.7969px;
+  white-space: pre-wrap;
+  width: 356px;
+}
+
+.p-33 {
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(113, 109, 102);
+  color: rgb(113, 109, 102);
+  cursor: pointer;
+  display: block;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  flex: 0 1 auto;
+  font-family: "Instrument Sans", "Instrument Sans Placeholder", sans-serif;
+  font-feature-settings: "blwf", "cv03", "cv04", "cv09", "cv11";
+  font-size: 16px;
+  font-stretch: 100%;
+  font-weight: 400;
+  grid-auto-flow: row;
+  height: 49.5938px;
+  line-height: 24.8px;
+  object-fit: fill;
+  overflow: visible;
+  position: static;
+  text-align: start;
+  transform-origin: 178px 24.7969px;
+  white-space: pre-wrap;
+  width: 356px;
+}
+
+.img-8 {
+  aspect-ratio: auto 1800 / 1013;
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(0, 0, 0);
+  border-radius: 2px;
+  color: rgb(0, 0, 0);
+  cursor: pointer;
+  display: block;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  flex: 0 1 auto;
+  font-family: sans-serif;
+  font-size: 12px;
+  font-stretch: 100%;
+  font-weight: 400;
+  grid-auto-flow: row;
+  height: 320px;
+  min-height: 0;
+  object-fit: cover;
+  overflow: clip;
+  position: static;
+  text-align: start;
+  transform-origin: 178px 160px;
+  width: 356px;
+}
+
+.luxury-style {
+  align-items: flex-start;
+  align-self: start;
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(0, 0, 0);
+  color: rgb(0, 0, 0);
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  flex: 0 0 auto;
+  font-family: sans-serif;
+  font-size: 12px;
+  font-stretch: 100%;
+  font-weight: 400;
+  gap: 14px;
+  grid-auto-flow: row;
+  height: 458.5px;
+  justify-content: flex-start;
+  object-fit: fill;
+  overflow: visible;
+  place-items: flex-start normal;
+  position: relative;
+  text-align: start;
+  transform-origin: 178px 229.25px;
+  width: 356px;
+}
+
+.luxury-interior {
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(0, 0, 0);
+  border-radius: 2px;
+  color: rgb(0, 0, 0);
+  cursor: pointer;
+  display: block;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  flex: 0 0 auto;
+  font-family: sans-serif;
+  font-size: 12px;
+  font-stretch: 100%;
+  font-weight: 400;
+  grid-auto-flow: row;
+  height: 360px;
+  min-height: 0;
+  object-fit: fill;
+  overflow: clip;
+  position: relative;
+  text-align: start;
+  transform-origin: 178px 180px;
+  width: 356px;
+}
+
+.div-46 {
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(0, 0, 0);
+  border-radius: 2px;
+  color: rgb(0, 0, 0);
+  cursor: pointer;
+  display: block;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  flex: 0 1 auto;
+  font-family: sans-serif;
+  font-size: 12px;
+  font-stretch: 100%;
+  font-weight: 400;
+  grid-auto-flow: row;
+  height: 360px;
+  object-fit: fill;
+  overflow: visible;
+  position: absolute;
+  text-align: start;
+  transform-origin: 178px 180px;
+  width: 356px;
+}
+
+.img-9 {
+  aspect-ratio: auto 1800 / 1199;
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(0, 0, 0);
+  border-radius: 2px;
+  color: rgb(0, 0, 0);
+  cursor: pointer;
+  display: block;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  flex: 0 1 auto;
+  font-family: sans-serif;
+  font-size: 12px;
+  font-stretch: 100%;
+  font-weight: 400;
+  grid-auto-flow: row;
+  height: 360px;
+  min-height: 0;
+  object-fit: cover;
+  overflow: clip;
+  position: static;
+  text-align: start;
+  transform-origin: 178px 180px;
+  width: 356px;
+}
+
+.industrial-style {
+  align-items: flex-start;
+  align-self: start;
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(0, 0, 0);
+  color: rgb(0, 0, 0);
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  flex: 0 0 auto;
+  font-family: sans-serif;
+  font-size: 12px;
+  font-stretch: 100%;
+  font-weight: 400;
+  gap: 14px;
+  grid-auto-flow: row;
+  height: 433.703px;
+  justify-content: flex-start;
+  object-fit: fill;
+  overflow: visible;
+  place-items: flex-start normal;
+  position: relative;
+  text-align: start;
+  transform-origin: 178px 216.852px;
+  width: 356px;
+}
+
+.img-10 {
+  aspect-ratio: auto 1800 / 1203;
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(0, 0, 0);
+  border-radius: 2px;
+  color: rgb(0, 0, 0);
+  cursor: pointer;
+  display: block;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  flex: 0 1 auto;
+  font-family: sans-serif;
+  font-size: 12px;
+  font-stretch: 100%;
+  font-weight: 400;
+  grid-auto-flow: row;
+  height: 360px;
+  min-height: 0;
+  object-fit: cover;
+  overflow: clip;
+  position: static;
+  text-align: start;
+  transform-origin: 178px 180px;
+  width: 356px;
+}
+
+.img-11 {
+  aspect-ratio: auto 1800 / 1200;
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(0, 0, 0);
+  border-radius: 2px;
+  color: rgb(0, 0, 0);
+  cursor: pointer;
+  display: block;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  flex: 0 1 auto;
+  font-family: sans-serif;
+  font-size: 12px;
+  font-stretch: 100%;
+  font-weight: 400;
+  grid-auto-flow: row;
+  height: 360px;
+  min-height: 0;
+  object-fit: cover;
+  overflow: clip;
+  position: static;
+  text-align: start;
+  transform-origin: 178px 180px;
+  width: 356px;
+}
+
+.design-your-space {
+  align-items: flex-start;
+  background-color: rgb(29, 28, 25);
+  background-position: 0% 0%;
+  border-color: rgb(0, 0, 0);
+  color: rgb(0, 0, 0);
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  flex: 0 0 auto;
+  font-family: sans-serif;
+  font-size: 12px;
+  font-stretch: 100%;
+  font-weight: 400;
+  gap: 34px;
+  grid-auto-flow: row;
+  height: 777.406px;
+  justify-content: flex-start;
+  max-width: 1200px;
+  min-height: 0;
+  object-fit: fill;
+  overflow: clip;
+  padding-bottom: 104px;
+  padding-left: 48px;
+  padding-right: 48px;
+  padding-top: 104px;
+  place-items: flex-start normal;
+  position: relative;
+  text-align: start;
+  transform-origin: 600px 388.703px;
+  width: 1200px;
+}
+
+.p-34 {
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(207, 199, 187);
+  color: rgb(207, 199, 187);
+  display: block;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  flex: 0 1 auto;
+  font-family: "Instrument Sans", "Instrument Sans Placeholder", sans-serif;
+  font-size: 11px;
+  font-stretch: 100%;
+  font-weight: 600;
+  grid-auto-flow: row;
+  height: 11px;
+  letter-spacing: 1.4px;
+  line-height: 11px;
+  object-fit: fill;
+  overflow: visible;
+  position: static;
+  text-align: start;
+  transform-origin: 552px 5.5px;
+  white-space: pre-wrap;
+  width: 1104px;
+}
+
+.p-35 {
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(255, 255, 255);
+  color: rgb(255, 255, 255);
+  display: block;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  flex: 0 1 auto;
+  font-family: "DM Serif Display", "DM Serif Display Placeholder", serif;
+  font-size: 48px;
+  font-stretch: 100%;
+  font-weight: 400;
+  grid-auto-flow: row;
+  height: 50.4062px;
+  letter-spacing: -1px;
+  line-height: 50.4px;
+  object-fit: fill;
+  overflow: visible;
+  position: static;
+  text-align: start;
+  transform-origin: 552px 25.2031px;
+  white-space: pre-wrap;
+  width: 1104px;
+}
+
+.roomify-concept-interface {
+  align-items: flex-start;
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(0, 0, 0);
+  color: rgb(0, 0, 0);
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  flex: 0 0 auto;
+  font-family: sans-serif;
+  font-size: 12px;
+  font-stretch: 100%;
+  font-weight: 400;
+  gap: 24px;
+  grid-auto-flow: row;
+  height: 440px;
+  justify-content: flex-start;
+  object-fit: fill;
+  overflow: visible;
+  place-items: flex-start normal;
+  position: relative;
+  text-align: start;
+  transform-origin: 552px 220px;
+  width: 1104px;
+}
+
+.customization-controls {
+  align-items: flex-start;
+  background-color: rgb(41, 39, 36);
+  background-position: 0% 0%;
+  border-color: rgb(0, 0, 0);
+  color: rgb(0, 0, 0);
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  flex: 0 0 auto;
+  font-family: sans-serif;
+  font-size: 12px;
+  font-stretch: 100%;
+  font-weight: 400;
+  gap: 18px;
+  grid-auto-flow: row;
+  height: 307.438px;
+  justify-content: flex-start;
+  object-fit: fill;
+  overflow: visible;
+  padding-bottom: 26px;
+  padding-left: 26px;
+  padding-right: 26px;
+  padding-top: 26px;
+  place-items: flex-start normal;
+  position: relative;
+  text-align: start;
+  transform-origin: 231.836px 153.719px;
+  width: 463.672px;
+}
+
+.div-47 {
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(0, 0, 0);
+  color: rgb(0, 0, 0);
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  flex: 0 0 auto;
+  font-family: sans-serif;
+  font-size: 12px;
+  font-stretch: 100%;
+  font-weight: 400;
+  grid-auto-flow: row;
+  height: 16.9062px;
+  justify-content: flex-start;
+  object-fit: fill;
+  overflow: visible;
+  position: relative;
+  text-align: start;
+  transform-origin: 205.836px 8.45312px;
+  white-space: pre-wrap;
+  width: 411.672px;
+}
+
+.p-36 {
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(244, 241, 235);
+  color: rgb(244, 241, 235);
+  display: block;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  flex: 0 1 auto;
+  font-family: "Instrument Sans", "Instrument Sans Placeholder", sans-serif;
+  font-size: 13px;
+  font-stretch: 100%;
+  font-weight: 500;
+  grid-auto-flow: row;
+  height: 16.9062px;
+  line-height: 16.9px;
+  object-fit: fill;
+  overflow: visible;
+  position: static;
+  text-align: start;
+  transform-origin: 205.836px 8.45312px;
+  white-space: pre-wrap;
+  width: 411.672px;
+}
+
+.div-48 {
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(0, 0, 0);
+  color: rgb(0, 0, 0);
+  display: block;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  flex: 0 0 auto;
+  font-family: sans-serif;
+  font-size: 12px;
+  font-stretch: 100%;
+  font-weight: 400;
+  grid-auto-flow: row;
+  height: 46px;
+  object-fit: fill;
+  overflow: visible;
+  position: relative;
+  text-align: start;
+  transform-origin: 91px 23px;
+  width: 182px;
+}
+
+.generated-room-preview {
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(0, 0, 0);
+  color: rgb(0, 0, 0);
+  display: block;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  flex: 1 0 0px;
+  font-family: sans-serif;
+  font-size: 12px;
+  font-stretch: 100%;
+  font-weight: 400;
+  grid-auto-flow: row;
+  height: 440px;
+  min-height: 0;
+  object-fit: fill;
+  overflow: clip;
+  position: relative;
+  text-align: start;
+  transform-origin: 308.164px 220px;
+  width: 616.328px;
+}
+
+.div-49 {
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(0, 0, 0);
+  color: rgb(0, 0, 0);
+  display: block;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  flex: 0 1 auto;
+  font-family: sans-serif;
+  font-size: 12px;
+  font-stretch: 100%;
+  font-weight: 400;
+  grid-auto-flow: row;
+  height: 440px;
+  object-fit: fill;
+  overflow: visible;
+  position: absolute;
+  text-align: start;
+  transform-origin: 308.164px 220px;
+  width: 616.328px;
+}
+
+.img-12 {
+  aspect-ratio: auto 1800 / 1200;
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(0, 0, 0);
+  color: rgb(0, 0, 0);
+  display: block;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  flex: 0 1 auto;
+  font-family: sans-serif;
+  font-size: 12px;
+  font-stretch: 100%;
+  font-weight: 400;
+  grid-auto-flow: row;
+  height: 440px;
+  min-height: 0;
+  object-fit: cover;
+  overflow: clip;
+  position: static;
+  text-align: start;
+  transform-origin: 308.164px 220px;
+  width: 616.328px;
+}
+
+.inspiration-gallery {
+  align-items: flex-start;
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(0, 0, 0);
+  color: rgb(0, 0, 0);
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  flex: 0 0 auto;
+  font-family: sans-serif;
+  font-size: 12px;
+  font-stretch: 100%;
+  font-weight: 400;
+  gap: 40px;
+  grid-auto-flow: row;
+  height: 1121.41px;
+  justify-content: flex-start;
+  max-width: 1200px;
+  min-height: 0;
+  object-fit: fill;
+  overflow: clip;
+  padding-bottom: 140px;
+  padding-left: 48px;
+  padding-right: 48px;
+  padding-top: 112px;
+  place-items: flex-start normal;
+  position: relative;
+  text-align: start;
+  transform-origin: 600px 560.703px;
+  width: 1200px;
+}
+
+.saved-spaces {
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(0, 0, 0);
+  color: rgb(0, 0, 0);
+  display: grid;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  flex: 0 0 auto;
+  font-family: sans-serif;
+  font-size: 12px;
+  font-stretch: 100%;
+  font-weight: 400;
+  gap: 18px;
+  grid-auto-flow: row;
+  grid-template-columns: 356px 356px 356px;
+  grid-template-rows: 728px;
+  height: 728px;
+  max-width: 100%;
+  object-fit: fill;
+  overflow: visible;
+  position: relative;
+  text-align: start;
+  transform-origin: 552px 364px;
+  width: 1104px;
+}
+
+.div-50 {
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(0, 0, 0);
+  color: rgb(0, 0, 0);
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  flex: 0 1 auto;
+  font-family: sans-serif;
+  font-size: 12px;
+  font-stretch: 100%;
+  font-weight: 400;
+  gap: 18px normal;
+  grid-auto-flow: row;
+  height: 728px;
+  object-fit: fill;
+  overflow: visible;
+  position: static;
+  text-align: start;
+  transform-origin: 178px 364px;
+  width: 356px;
+}
+
+.warm-minimal-bedroom {
+  align-items: flex-start;
+  align-self: start;
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(0, 0, 0);
+  color: rgb(0, 0, 0);
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  flex: 0 0 auto;
+  font-family: sans-serif;
+  font-size: 12px;
+  font-stretch: 100%;
+  font-weight: 400;
+  grid-auto-flow: row;
+  height: 390px;
+  justify-content: flex-end;
+  min-height: 0;
+  object-fit: fill;
+  overflow: clip;
+  padding-bottom: 16px;
+  padding-left: 16px;
+  padding-right: 16px;
+  padding-top: 16px;
+  place-items: flex-start normal;
+  position: relative;
+  text-align: start;
+  transform-origin: 178px 195px;
+  width: 356px;
+}
+
+.div-51 {
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(0, 0, 0);
+  color: rgb(0, 0, 0);
+  cursor: pointer;
+  display: block;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  flex: 0 1 auto;
+  font-family: sans-serif;
+  font-size: 12px;
+  font-stretch: 100%;
+  font-weight: 400;
+  grid-auto-flow: row;
+  height: 390px;
+  object-fit: fill;
+  overflow: visible;
+  position: absolute;
+  text-align: start;
+  transform-origin: 178px 195px;
+  width: 356px;
+}
+
+.img-13 {
+  aspect-ratio: auto 1800 / 1200;
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(0, 0, 0);
+  color: rgb(0, 0, 0);
+  cursor: pointer;
+  display: block;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  flex: 0 1 auto;
+  font-family: sans-serif;
+  font-size: 12px;
+  font-stretch: 100%;
+  font-weight: 400;
+  grid-auto-flow: row;
+  height: 390px;
+  min-height: 0;
+  object-fit: cover;
+  overflow: clip;
+  position: static;
+  text-align: start;
+  transform-origin: 178px 195px;
+  width: 356px;
+}
+
+.div-52 {
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(0, 0, 0);
+  color: rgb(0, 0, 0);
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  flex: 0 0 auto;
+  font-family: sans-serif;
+  font-size: 12px;
+  font-stretch: 100%;
+  font-weight: 400;
+  grid-auto-flow: row;
+  height: 11px;
+  justify-content: flex-start;
+  object-fit: fill;
+  overflow: visible;
+  position: relative;
+  text-align: start;
+  transform-origin: 95.5px 5.5px;
+  white-space: pre;
+  width: 191px;
+}
+
+.p-37 {
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(255, 255, 255);
+  color: rgb(255, 255, 255);
+  cursor: pointer;
+  display: block;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  flex: 0 1 auto;
+  font-family: "Instrument Sans", "Instrument Sans Placeholder", sans-serif;
+  font-size: 11px;
+  font-stretch: 100%;
+  font-weight: 600;
+  grid-auto-flow: row;
+  height: 11px;
+  letter-spacing: 1px;
+  line-height: 11px;
+  object-fit: fill;
+  overflow: visible;
+  position: static;
+  text-align: start;
+  transform-origin: 95.5px 5.5px;
+  white-space: pre;
+  width: 191px;
+}
+
+.mark {
+  background-color: rgba(29, 28, 25, 0.55);
+  background-position: 0% 0%;
+  border-color: rgb(255, 255, 255);
+  color: rgb(255, 255, 255);
+  cursor: pointer;
+  display: inline;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  flex: 0 1 auto;
+  font-family: "Instrument Sans", "Instrument Sans Placeholder", sans-serif;
+  font-size: 11px;
+  font-stretch: 100%;
+  font-weight: 600;
+  grid-auto-flow: row;
+  letter-spacing: 1px;
+  line-height: 11px;
+  object-fit: fill;
+  overflow: visible;
+  padding-bottom: 5px;
+  padding-left: 7px;
+  padding-right: 7px;
+  padding-top: 5px;
+  position: static;
+  text-align: start;
+  transform-origin: 0px 0px;
+  white-space: pre;
+}
+
+.urban-japandi-workspace {
+  align-items: flex-start;
+  align-self: start;
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(0, 0, 0);
+  color: rgb(0, 0, 0);
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  flex: 0 0 auto;
+  font-family: sans-serif;
+  font-size: 12px;
+  font-stretch: 100%;
+  font-weight: 400;
+  grid-auto-flow: row;
+  height: 320px;
+  justify-content: flex-end;
+  min-height: 0;
+  object-fit: fill;
+  overflow: clip;
+  padding-bottom: 16px;
+  padding-left: 16px;
+  padding-right: 16px;
+  padding-top: 16px;
+  place-items: flex-start normal;
+  position: relative;
+  text-align: start;
+  transform-origin: 178px 160px;
+  width: 356px;
+}
+
+.div-53 {
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(0, 0, 0);
+  color: rgb(0, 0, 0);
+  cursor: pointer;
+  display: block;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  flex: 0 1 auto;
+  font-family: sans-serif;
+  font-size: 12px;
+  font-stretch: 100%;
+  font-weight: 400;
+  grid-auto-flow: row;
+  height: 320px;
+  object-fit: fill;
+  overflow: visible;
+  position: absolute;
+  text-align: start;
+  transform-origin: 178px 160px;
+  width: 356px;
+}
+
+.img-14 {
+  aspect-ratio: auto 1800 / 1203;
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(0, 0, 0);
+  color: rgb(0, 0, 0);
+  cursor: pointer;
+  display: block;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  flex: 0 1 auto;
+  font-family: sans-serif;
+  font-size: 12px;
+  font-stretch: 100%;
+  font-weight: 400;
+  grid-auto-flow: row;
+  height: 320px;
+  min-height: 0;
+  object-fit: cover;
+  overflow: clip;
+  position: static;
+  text-align: start;
+  transform-origin: 178px 160px;
+  width: 356px;
+}
+
+.div-54 {
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(0, 0, 0);
+  color: rgb(0, 0, 0);
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  flex: 0 0 auto;
+  font-family: sans-serif;
+  font-size: 12px;
+  font-stretch: 100%;
+  font-weight: 400;
+  grid-auto-flow: row;
+  height: 11px;
+  justify-content: flex-start;
+  object-fit: fill;
+  overflow: visible;
+  position: relative;
+  text-align: start;
+  transform-origin: 103.5px 5.5px;
+  white-space: pre;
+  width: 207px;
+}
+
+.p-38 {
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(255, 255, 255);
+  color: rgb(255, 255, 255);
+  cursor: pointer;
+  display: block;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  flex: 0 1 auto;
+  font-family: "Instrument Sans", "Instrument Sans Placeholder", sans-serif;
+  font-size: 11px;
+  font-stretch: 100%;
+  font-weight: 600;
+  grid-auto-flow: row;
+  height: 11px;
+  letter-spacing: 1px;
+  line-height: 11px;
+  object-fit: fill;
+  overflow: visible;
+  position: static;
+  text-align: start;
+  transform-origin: 103.5px 5.5px;
+  white-space: pre;
+  width: 207px;
+}
+
+.modern-earth-living-room {
+  align-items: flex-start;
+  align-self: start;
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(0, 0, 0);
+  color: rgb(0, 0, 0);
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  flex: 0 0 auto;
+  font-family: sans-serif;
+  font-size: 12px;
+  font-stretch: 100%;
+  font-weight: 400;
+  grid-auto-flow: row;
+  height: 290px;
+  justify-content: flex-end;
+  min-height: 0;
+  object-fit: fill;
+  overflow: clip;
+  padding-bottom: 16px;
+  padding-left: 16px;
+  padding-right: 16px;
+  padding-top: 16px;
+  place-items: flex-start normal;
+  position: relative;
+  text-align: start;
+  transform-origin: 178px 145px;
+  width: 356px;
+}
+
+.div-55 {
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(0, 0, 0);
+  color: rgb(0, 0, 0);
+  cursor: pointer;
+  display: block;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  flex: 0 1 auto;
+  font-family: sans-serif;
+  font-size: 12px;
+  font-stretch: 100%;
+  font-weight: 400;
+  grid-auto-flow: row;
+  height: 290px;
+  object-fit: fill;
+  overflow: visible;
+  position: absolute;
+  text-align: start;
+  transform-origin: 178px 145px;
+  width: 356px;
+}
+
+.img-15 {
+  aspect-ratio: auto 1800 / 1200;
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(0, 0, 0);
+  color: rgb(0, 0, 0);
+  cursor: pointer;
+  display: block;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  flex: 0 1 auto;
+  font-family: sans-serif;
+  font-size: 12px;
+  font-stretch: 100%;
+  font-weight: 400;
+  grid-auto-flow: row;
+  height: 290px;
+  min-height: 0;
+  object-fit: cover;
+  overflow: clip;
+  position: static;
+  text-align: start;
+  transform-origin: 178px 145px;
+  width: 356px;
+}
+
+.div-56 {
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(0, 0, 0);
+  color: rgb(0, 0, 0);
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  flex: 0 0 auto;
+  font-family: sans-serif;
+  font-size: 12px;
+  font-stretch: 100%;
+  font-weight: 400;
+  grid-auto-flow: row;
+  height: 11px;
+  justify-content: flex-start;
+  object-fit: fill;
+  overflow: visible;
+  position: relative;
+  text-align: start;
+  transform-origin: 106.5px 5.5px;
+  white-space: pre;
+  width: 213px;
+}
+
+.p-39 {
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(255, 255, 255);
+  color: rgb(255, 255, 255);
+  cursor: pointer;
+  display: block;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  flex: 0 1 auto;
+  font-family: "Instrument Sans", "Instrument Sans Placeholder", sans-serif;
+  font-size: 11px;
+  font-stretch: 100%;
+  font-weight: 600;
+  grid-auto-flow: row;
+  height: 11px;
+  letter-spacing: 1px;
+  line-height: 11px;
+  object-fit: fill;
+  overflow: visible;
+  position: static;
+  text-align: start;
+  transform-origin: 106.5px 5.5px;
+  white-space: pre;
+  width: 213px;
+}
+
+.quiet-luxury-bedroom {
+  align-items: flex-start;
+  align-self: start;
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(0, 0, 0);
+  color: rgb(0, 0, 0);
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  flex: 0 0 auto;
+  font-family: sans-serif;
+  font-size: 12px;
+  font-stretch: 100%;
+  font-weight: 400;
+  grid-auto-flow: row;
+  height: 430px;
+  justify-content: flex-end;
+  min-height: 0;
+  object-fit: fill;
+  overflow: clip;
+  padding-bottom: 16px;
+  padding-left: 16px;
+  padding-right: 16px;
+  padding-top: 16px;
+  place-items: flex-start normal;
+  position: relative;
+  text-align: start;
+  transform-origin: 178px 215px;
+  width: 356px;
+}
+
+.div-57 {
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(0, 0, 0);
+  color: rgb(0, 0, 0);
+  cursor: pointer;
+  display: block;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  flex: 0 1 auto;
+  font-family: sans-serif;
+  font-size: 12px;
+  font-stretch: 100%;
+  font-weight: 400;
+  grid-auto-flow: row;
+  height: 430px;
+  object-fit: fill;
+  overflow: visible;
+  position: absolute;
+  text-align: start;
+  transform-origin: 178px 215px;
+  width: 356px;
+}
+
+.img-16 {
+  aspect-ratio: auto 1800 / 1199;
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(0, 0, 0);
+  color: rgb(0, 0, 0);
+  cursor: pointer;
+  display: block;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  flex: 0 1 auto;
+  font-family: sans-serif;
+  font-size: 12px;
+  font-stretch: 100%;
+  font-weight: 400;
+  grid-auto-flow: row;
+  height: 430px;
+  min-height: 0;
+  object-fit: cover;
+  overflow: clip;
+  position: static;
+  text-align: start;
+  transform-origin: 178px 215px;
+  width: 356px;
+}
+
+.div-58 {
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(0, 0, 0);
+  color: rgb(0, 0, 0);
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  flex: 0 0 auto;
+  font-family: sans-serif;
+  font-size: 12px;
+  font-stretch: 100%;
+  font-weight: 400;
+  grid-auto-flow: row;
+  height: 11px;
+  justify-content: flex-start;
+  object-fit: fill;
+  overflow: visible;
+  position: relative;
+  text-align: start;
+  transform-origin: 92.5px 5.5px;
+  white-space: pre;
+  width: 185px;
+}
+
+.p-40 {
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(255, 255, 255);
+  color: rgb(255, 255, 255);
+  cursor: pointer;
+  display: block;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  flex: 0 1 auto;
+  font-family: "Instrument Sans", "Instrument Sans Placeholder", sans-serif;
+  font-size: 11px;
+  font-stretch: 100%;
+  font-weight: 600;
+  grid-auto-flow: row;
+  height: 11px;
+  letter-spacing: 1px;
+  line-height: 11px;
+  object-fit: fill;
+  overflow: visible;
+  position: static;
+  text-align: start;
+  transform-origin: 92.5px 5.5px;
+  white-space: pre;
+  width: 185px;
+}
+
+.div-59 {
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(0, 0, 0);
+  color: rgb(0, 0, 0);
+  display: block;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  flex: 0 1 auto;
+  font-family: sans-serif;
+  font-size: 12px;
+  font-stretch: 100%;
+  font-weight: 400;
+  grid-auto-flow: row;
+  object-fit: fill;
+  overflow: visible;
+  position: static;
+  text-align: start;
+  transform-origin: 0px 0px;
+}
+
+.div-60 {
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0px 0px;
+  border-color: rgb(0, 0, 0);
+  color: rgb(0, 0, 0);
+  display: block;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  flex: 1 1 auto;
+  font-family: sans-serif;
+  font-size: 12px;
+  font-stretch: 100%;
+  font-weight: 400;
+  grid-auto-flow: row;
+  object-fit: fill;
+  overflow: visible;
+  position: relative;
+  text-align: start;
+  transform-origin: 0px 0px;
+}
+
+.roomify-footer {
+  align-items: center;
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(0, 0, 0);
+  color: rgb(0, 0, 0);
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  flex: 0 0 auto;
+  font-family: sans-serif;
+  font-size: 12px;
+  font-stretch: 100%;
+  font-weight: 400;
+  grid-auto-flow: row;
+  height: 64px;
+  justify-content: space-between;
+  object-fit: fill;
+  overflow: visible;
+  padding-bottom: 26px;
+  padding-left: 48px;
+  padding-right: 48px;
+  padding-top: 26px;
+  place-items: center normal;
+  position: absolute;
+  text-align: start;
+  top: 5635.62px;
+  transform-origin: 720px 32px;
+  width: 1440px;
+}
+
+.div-61 {
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(0, 0, 0);
+  color: rgb(0, 0, 0);
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  flex: 0 0 auto;
+  font-family: sans-serif;
+  font-size: 12px;
+  font-stretch: 100%;
+  font-weight: 400;
+  grid-auto-flow: row;
+  height: 11px;
+  justify-content: flex-start;
+  object-fit: fill;
+  overflow: visible;
+  position: relative;
+  text-align: start;
+  transform-origin: 55.8047px 5.5px;
+  white-space: pre;
+  width: 111.609px;
+}
+
+.p-41 {
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(113, 109, 102);
+  color: rgb(113, 109, 102);
+  display: block;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  flex: 0 1 auto;
+  font-family: "Instrument Sans", "Instrument Sans Placeholder", sans-serif;
+  font-feature-settings: "blwf", "cv03", "cv04", "cv09", "cv11";
+  font-size: 11px;
+  font-stretch: 100%;
+  font-weight: 600;
+  grid-auto-flow: row;
+  height: 11px;
+  letter-spacing: 1.4px;
+  line-height: 11px;
+  object-fit: fill;
+  overflow: visible;
+  position: static;
+  text-align: start;
+  text-transform: uppercase;
+  transform-origin: 55.8047px 5.5px;
+  white-space: pre;
+  width: 111.609px;
+}
+
+.div-62 {
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(0, 0, 0);
+  color: rgb(0, 0, 0);
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  flex: 0 0 auto;
+  font-family: sans-serif;
+  font-size: 12px;
+  font-stretch: 100%;
+  font-weight: 400;
+  grid-auto-flow: row;
+  height: 12px;
+  justify-content: flex-start;
+  object-fit: fill;
+  overflow: visible;
+  position: relative;
+  text-align: start;
+  transform-origin: 97px 6px;
+  white-space: pre;
+  width: 194px;
+}
+
+.p-42 {
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(113, 109, 102);
+  color: rgb(113, 109, 102);
+  display: block;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  flex: 0 1 auto;
+  font-family: "Instrument Sans", "Instrument Sans Placeholder", sans-serif;
+  font-size: 12px;
+  font-stretch: 100%;
+  font-weight: 400;
+  grid-auto-flow: row;
+  height: 12px;
+  line-height: 12px;
+  object-fit: fill;
+  overflow: visible;
+  position: static;
+  text-align: start;
+  transform-origin: 97px 6px;
+  white-space: pre;
+  width: 194px;
+}
+
+.div-63 {
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(0, 0, 0);
+  color: rgb(0, 0, 0);
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  flex: 0 1 auto;
+  font-family: sans-serif;
+  font-size: 12px;
+  font-stretch: 100%;
+  font-weight: 400;
+  grid-auto-flow: row;
+  height: 78px;
+  justify-content: flex-end;
+  object-fit: fill;
+  overflow: visible;
+  padding-bottom: 20px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 20px;
+  position: fixed;
+  text-align: start;
+  top: 822px;
+  transform-origin: 720px 39px;
+  width: 1440px;
+  z-index: 2147483647;
+}
+
+.light {
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(0, 0, 238);
+  color: rgb(0, 0, 238);
+  cursor: pointer;
+  display: block;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  flex: 0 1 auto;
+  font-family: sans-serif;
+  font-size: 12px;
+  font-stretch: 100%;
+  font-weight: 400;
+  gap: 10px;
+  grid-auto-flow: row;
+  height: 38px;
+  object-fit: fill;
+  overflow: visible;
+  position: relative;
+  text-align: start;
+  transform-origin: 70px 19px;
+  width: 140px;
+}
+
+.backdrop {
+  background-color: rgb(255, 255, 255);
+  background-position: 0% 0%;
+  border-color: rgb(0, 0, 238);
+  border-radius: 10px;
+  bottom: 1px;
+  box-shadow: rgba(0, 0, 0, 0.17) 0px 0.602187px 1.56569px -1.5px, rgba(0, 0, 0, 0.14) 0px 2.28853px 5.95019px -3px, rgba(0, 0, 0, 0.02) 0px 10px 26px -4.5px;
+  color: rgb(0, 0, 238);
+  cursor: pointer;
+  display: block;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  flex: 0 0 auto;
+  font-family: sans-serif;
+  font-size: 12px;
+  font-stretch: 100%;
+  font-weight: 400;
+  grid-auto-flow: row;
+  height: 36px;
+  left: 1px;
+  min-height: 0;
+  object-fit: fill;
+  overflow: hidden;
+  position: absolute;
+  right: 1px;
+  text-align: start;
+  top: 1px;
+  transform-origin: 69px 18px;
+  width: 138px;
+}
+
+.content {
+  align-items: center;
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(0, 0, 238);
+  bottom: 3px;
+  color: rgb(0, 0, 238);
+  cursor: pointer;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  flex: 0 0 auto;
+  font-family: sans-serif;
+  font-size: 12px;
+  font-stretch: 100%;
+  font-weight: 400;
+  gap: 10px;
+  grid-auto-flow: row;
+  height: 16px;
+  justify-content: flex-start;
+  left: 70px;
+  object-fit: fill;
+  overflow: visible;
+  place-items: center normal;
+  position: absolute;
+  right: -49px;
+  text-align: start;
+  top: 19px;
+  transform-origin: 59.5px 8px;
+  transform: matrix(1, 0, 0, 1, -59.5, -8);
+  width: 119px;
+}
+
+.div-64 {
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(0, 0, 238);
+  color: rgb(0, 0, 238);
+  cursor: pointer;
+  display: block;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  flex: 0 0 auto;
+  font-family: sans-serif;
+  font-size: 12px;
+  font-stretch: 100%;
+  font-weight: 400;
+  grid-auto-flow: row;
+  height: 16px;
+  object-fit: fill;
+  overflow: visible;
+  position: relative;
+  text-align: start;
+  transform-origin: 6px 8px;
+  width: 12px;
+}
+
+.p-43 {
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(0, 0, 238);
+  bottom: -27px;
+  color: rgb(0, 0, 238);
+  cursor: pointer;
+  display: block;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  flex: 0 1 auto;
+  font-family: sans-serif;
+  font-size: 12px;
+  font-stretch: 100%;
+  font-weight: 400;
+  grid-auto-flow: row;
+  height: 70px;
+  object-fit: fill;
+  overflow: visible;
+  position: absolute;
+  text-align: start;
+  top: -27px;
+  transform-origin: 59.5px 35px;
+  transform: matrix(0.001, 0, 0, 0.001, 0, 0);
+  width: 119px;
+}
+
+.bottom {
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(0, 0, 238);
+  border-radius: 11px;
+  box-shadow: rgb(0, 0, 0) 0px 0px 0px 1px inset;
+  color: rgb(0, 0, 238);
+  cursor: pointer;
+  display: block;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  flex: 0 0 auto;
+  font-family: sans-serif;
+  font-size: 12px;
+  font-stretch: 100%;
+  font-weight: 400;
+  grid-auto-flow: row;
+  height: 38px;
+  object-fit: fill;
+  opacity: 0.06;
+  overflow: visible;
+  position: absolute;
+  text-align: start;
+  transform-origin: 70px 19px;
+  width: 140px;
+}
+
+.border {
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(0, 0, 238);
+  border-radius: 11px;
+  box-shadow: rgb(0, 0, 0) 0px 0px 0px 1px inset;
+  color: rgb(0, 0, 238);
+  cursor: pointer;
+  display: block;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  flex: 0 0 auto;
+  font-family: sans-serif;
+  font-size: 12px;
+  font-stretch: 100%;
+  font-weight: 400;
+  grid-auto-flow: row;
+  height: 38px;
+  object-fit: fill;
+  opacity: 0.04;
+  overflow: visible;
+  position: absolute;
+  text-align: start;
+  transform-origin: 70px 19px;
+  width: 140px;
+}
+
+.div-65 {
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(0, 0, 0);
+  color: rgb(0, 0, 0);
+  display: block;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  flex: 0 1 auto;
+  font-family: sans-serif;
+  font-size: 12px;
+  font-stretch: 100%;
+  font-weight: 400;
+  grid-auto-flow: row;
+  object-fit: fill;
+  overflow: hidden;
+  position: absolute;
+  right: 1440px;
+  text-align: start;
+  top: 900px;
+  transform-origin: 0px 0px;
+  z-index: 0;
+}
+
+.svg-4 {
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(0, 0, 0);
+  color: rgb(0, 0, 0);
+  display: block;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  flex: 0 1 auto;
+  font-family: sans-serif;
+  font-size: 12px;
+  font-stretch: 100%;
+  font-weight: 400;
+  grid-auto-flow: row;
+  object-fit: fill;
+  overflow: hidden;
+  position: static;
+  text-align: start;
+  transform-origin: 0px 0px;
+}
+
+.div-66 {
+  align-items: center;
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(0, 0, 0);
+  bottom: 435px;
+  color: rgb(0, 0, 0);
+  cursor: pointer;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  flex: 0 1 auto;
+  font-family: sans-serif;
+  font-size: 12px;
+  font-stretch: 100%;
+  font-weight: 400;
+  gap: 8px;
+  grid-auto-flow: row;
+  height: 30px;
+  left: 1400px;
+  object-fit: fill;
+  overflow: visible;
+  place-items: center normal;
+  position: fixed;
+  right: 10px;
+  text-align: start;
+  top: 435px;
+  transform-origin: 15px 15px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+  width: 30px;
+  z-index: 2147483647;
+}
+
+.span {
+  background-color: rgba(34, 34, 34, 0.8);
+  background-position: 0% 0%;
+  border-color: rgb(255, 255, 255);
+  border-radius: 8px;
+  bottom: 3.5px;
+  box-shadow: rgba(0, 0, 0, 0.1) 0px 2px 4px 0px, rgba(0, 0, 0, 0.05) 0px 1px 0px 0px, rgba(255, 255, 255, 0.15) 0px 0px 0px 1px;
+  color: rgb(255, 255, 255);
+  cursor: pointer;
+  display: block;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  flex: 0 0 auto;
+  font-family: Inter, Inter-Regular, system-ui, Arial, sans-serif;
+  font-size: 12px;
+  font-stretch: 100%;
+  font-weight: 500;
+  grid-auto-flow: row;
+  height: 23px;
+  left: -97px;
+  object-fit: fill;
+  opacity: 0;
+  overflow: visible;
+  padding-bottom: 4px;
+  padding-left: 8px;
+  padding-right: 8px;
+  padding-top: 4px;
+  position: fixed;
+  right: 40px;
+  text-align: start;
+  top: 3.5px;
+  transform-origin: 43.5px 11.5px;
+  width: 87px;
+}
+
+.button {
+  align-items: center;
+  background-color: rgba(34, 34, 34, 0.8);
+  background-position: 0% 0%;
+  border-color: rgb(255, 255, 255);
+  border-radius: 15px;
+  box-shadow: rgba(0, 0, 0, 0.1) 0px 2px 4px 0px, rgba(0, 0, 0, 0.05) 0px 1px 0px 0px, rgba(255, 255, 255, 0.15) 0px 0px 0px 1px;
+  color: rgb(255, 255, 255);
+  cursor: pointer;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  flex: 0 0 auto;
+  font-family: sans-serif;
+  font-size: 12px;
+  font-stretch: 100%;
+  font-weight: 400;
+  grid-auto-flow: row;
+  height: 30px;
+  justify-content: center;
+  object-fit: fill;
+  overflow: visible;
+  place-items: center normal;
+  position: static;
+  text-align: start;
+  transform-origin: 15px 15px;
+  width: 30px;
+}
+
+.svg-5 {
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(255, 255, 255);
+  color: rgb(255, 255, 255);
+  cursor: pointer;
+  display: block;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  flex: 0 1 auto;
+  font-family: sans-serif;
+  font-size: 12px;
+  font-stretch: 100%;
+  font-weight: 400;
+  grid-auto-flow: row;
+  height: 14px;
+  min-height: 0;
+  object-fit: fill;
+  overflow: hidden;
+  position: static;
+  text-align: start;
+  transform-origin: 7px 7px;
+  width: 14px;
+}
+
+.iframe {
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(0, 0, 0);
+  clip-path: circle(1px at calc(100% - 1px) calc(100% - 1px));
+  color: rgb(0, 0, 0);
+  display: block;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  flex: 0 1 auto;
+  font-family: sans-serif;
+  font-size: 12px;
+  font-stretch: 100%;
+  font-weight: 400;
+  grid-auto-flow: row;
+  height: 900px;
+  min-height: 0;
+  object-fit: fill;
+  overflow: clip;
+  position: fixed;
+  text-align: start;
+  transform-origin: 720px 450px;
+  width: 1440px;
+  z-index: 2147483646;
+}
+
+.div-67 {
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(0, 0, 0);
+  color: rgb(0, 0, 0);
+  display: block;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  flex: 0 1 auto;
+  font-family: sans-serif;
+  font-size: 12px;
+  font-stretch: 100%;
+  font-weight: 400;
+  grid-auto-flow: row;
+  height: 900px;
+  object-fit: fill;
+  overflow: visible;
+  position: static;
+  text-align: start;
+  transform-origin: 720px 450px;
+  width: 1440px;
+}
+
+.div-68 {
+  align-items: center;
+  background-color: rgb(244, 241, 235);
+  background-position: 0% 0%;
+  border-color: rgb(0, 0, 0);
+  color: rgb(0, 0, 0);
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  flex: 0 1 auto;
+  font-family: sans-serif;
+  font-size: 12px;
+  font-stretch: 100%;
+  font-weight: 400;
+  grid-auto-flow: row;
+  height: 900px;
+  justify-content: flex-start;
+  min-height: 900px;
+  object-fit: fill;
+  overflow: clip;
+  place-items: center normal;
+  position: relative;
+  text-align: start;
+  transform-origin: 720px 450px;
+  width: 1440px;
+}
+
+.studio-header {
+  align-items: center;
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(0, 0, 0);
+  color: rgb(0, 0, 0);
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  flex: 0 0 auto;
+  font-family: sans-serif;
+  font-size: 12px;
+  font-stretch: 100%;
+  font-weight: 400;
+  grid-auto-flow: row;
+  height: 59px;
+  justify-content: space-between;
+  max-width: 1200px;
+  object-fit: fill;
+  overflow: visible;
+  padding-bottom: 22px;
+  padding-left: 48px;
+  padding-right: 48px;
+  padding-top: 22px;
+  place-items: center normal;
+  position: relative;
+  text-align: start;
+  transform-origin: 600px 29.5px;
+  width: 1200px;
+}
+
+.a-3 {
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(29, 28, 25);
+  color: rgb(29, 28, 25);
+  cursor: pointer;
+  display: inline;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  flex: 0 1 auto;
+  font-family: "Instrument Sans", "Instrument Sans Placeholder", sans-serif;
+  font-size: 15px;
+  font-stretch: 100%;
+  font-weight: 600;
+  grid-auto-flow: row;
+  letter-spacing: 2px;
+  line-height: 15px;
+  object-fit: fill;
+  overflow: visible;
+  position: static;
+  text-align: start;
+  transform-origin: 0px 0px;
+  white-space: pre;
+}
+
+.studio-header-links {
+  align-items: center;
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(0, 0, 0);
+  color: rgb(0, 0, 0);
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  flex: 0 0 auto;
+  font-family: sans-serif;
+  font-size: 12px;
+  font-stretch: 100%;
+  font-weight: 400;
+  gap: 26px;
+  grid-auto-flow: row;
+  height: 13px;
+  justify-content: center;
+  object-fit: fill;
+  overflow: visible;
+  place-items: center normal;
+  position: relative;
+  text-align: start;
+  transform-origin: 88.5px 6.5px;
+  width: 177px;
+}
+
+.div-69 {
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(0, 0, 0);
+  color: rgb(0, 0, 0);
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  flex: 0 0 auto;
+  font-family: sans-serif;
+  font-size: 12px;
+  font-stretch: 100%;
+  font-weight: 400;
+  grid-auto-flow: row;
+  height: 13px;
+  justify-content: flex-start;
+  object-fit: fill;
+  overflow: visible;
+  position: relative;
+  text-align: start;
+  transform-origin: 41.5px 6.5px;
+  white-space: pre;
+  width: 83px;
+}
+
+.p-44 {
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(29, 28, 25);
+  color: rgb(29, 28, 25);
+  display: block;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  flex: 0 1 auto;
+  font-family: "Instrument Sans", "Instrument Sans Placeholder", sans-serif;
+  font-size: 13px;
+  font-stretch: 100%;
+  font-weight: 500;
+  grid-auto-flow: row;
+  height: 13px;
+  line-height: 13px;
+  object-fit: fill;
+  overflow: visible;
+  position: static;
+  text-align: start;
+  transform-origin: 41.5px 6.5px;
+  white-space: pre;
+  width: 83px;
+}
+
+.div-70 {
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(0, 0, 0);
+  color: rgb(0, 0, 0);
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  flex: 0 0 auto;
+  font-family: sans-serif;
+  font-size: 12px;
+  font-stretch: 100%;
+  font-weight: 400;
+  grid-auto-flow: row;
+  height: 13px;
+  justify-content: flex-start;
+  object-fit: fill;
+  overflow: visible;
+  position: relative;
+  text-align: start;
+  transform-origin: 34px 6.5px;
+  white-space: pre;
+  width: 68px;
+}
+
+.p-45 {
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(29, 28, 25);
+  color: rgb(29, 28, 25);
+  display: block;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  flex: 0 1 auto;
+  font-family: "Instrument Sans", "Instrument Sans Placeholder", sans-serif;
+  font-size: 13px;
+  font-stretch: 100%;
+  font-weight: 500;
+  grid-auto-flow: row;
+  height: 13px;
+  line-height: 13px;
+  object-fit: fill;
+  overflow: visible;
+  position: static;
+  text-align: start;
+  transform-origin: 34px 6.5px;
+  white-space: pre;
+  width: 68px;
+}
+
+.design-studio-workspace {
+  align-items: flex-start;
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(0, 0, 0);
+  color: rgb(0, 0, 0);
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  flex: 0 0 auto;
+  font-family: sans-serif;
+  font-size: 12px;
+  font-stretch: 100%;
+  font-weight: 400;
+  gap: 42px;
+  grid-auto-flow: row;
+  height: 800.797px;
+  justify-content: flex-start;
+  max-width: 1200px;
+  min-height: 0;
+  object-fit: fill;
+  overflow: clip;
+  padding-bottom: 110px;
+  padding-left: 48px;
+  padding-right: 48px;
+  padding-top: 72px;
+  place-items: flex-start normal;
+  position: relative;
+  text-align: start;
+  transform-origin: 600px 400.398px;
+  width: 1200px;
+}
+
+.room-preview {
+  align-items: flex-start;
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(0, 0, 0);
+  color: rgb(0, 0, 0);
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  flex: 1 0 0px;
+  font-family: sans-serif;
+  font-size: 12px;
+  font-stretch: 100%;
+  font-weight: 400;
+  gap: 14px;
+  grid-auto-flow: row;
+  height: 618.797px;
+  justify-content: flex-start;
+  object-fit: fill;
+  overflow: visible;
+  place-items: flex-start normal;
+  position: relative;
+  text-align: start;
+  transform-origin: 310.203px 309.398px;
+  width: 620.406px;
+}
+
+.upload-room-preview {
+  align-items: flex-start;
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(0, 0, 0);
+  border-radius: 2px;
+  color: rgb(0, 0, 0);
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  flex: 0 0 auto;
+  font-family: sans-serif;
+  font-size: 12px;
+  font-stretch: 100%;
+  font-weight: 400;
+  gap: 18px;
+  grid-auto-flow: row;
+  height: 580px;
+  justify-content: flex-end;
+  min-height: 0;
+  object-fit: fill;
+  overflow: clip;
+  padding-bottom: 30px;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-top: 30px;
+  place-items: flex-start normal;
+  position: relative;
+  text-align: start;
+  transform-origin: 310.203px 290px;
+  width: 620.406px;
+}
+
+.div-71 {
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(0, 0, 0);
+  border-radius: 2px;
+  color: rgb(0, 0, 0);
+  display: block;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  flex: 0 1 auto;
+  font-family: sans-serif;
+  font-size: 12px;
+  font-stretch: 100%;
+  font-weight: 400;
+  grid-auto-flow: row;
+  height: 580px;
+  object-fit: fill;
+  overflow: visible;
+  position: absolute;
+  text-align: start;
+  transform-origin: 310.203px 290px;
+  width: 620.406px;
+}
+
+.img-17 {
+  aspect-ratio: auto 1800 / 1318;
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(0, 0, 0);
+  border-radius: 2px;
+  color: rgb(0, 0, 0);
+  display: block;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  flex: 0 1 auto;
+  font-family: sans-serif;
+  font-size: 12px;
+  font-stretch: 100%;
+  font-weight: 400;
+  grid-auto-flow: row;
+  height: 580px;
+  min-height: 0;
+  object-fit: cover;
+  overflow: clip;
+  position: static;
+  text-align: start;
+  transform-origin: 310.203px 290px;
+  width: 620.406px;
+}
+
+.upload-room-prompt {
+  align-items: flex-start;
+  background-color: rgba(244, 241, 235, 0.94);
+  background-position: 0% 0%;
+  border-color: rgb(0, 0, 0);
+  color: rgb(0, 0, 0);
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  flex: 0 0 auto;
+  font-family: sans-serif;
+  font-size: 12px;
+  font-stretch: 100%;
+  font-weight: 400;
+  gap: 14px;
+  grid-auto-flow: row;
+  height: 220.594px;
+  justify-content: flex-start;
+  object-fit: fill;
+  overflow: visible;
+  padding-bottom: 24px;
+  padding-left: 24px;
+  padding-right: 24px;
+  padding-top: 24px;
+  place-items: flex-start normal;
+  position: relative;
+  text-align: start;
+  transform-origin: 201.742px 110.297px;
+  width: 403.484px;
+}
+
+.div-72 {
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(0, 0, 0);
+  color: rgb(0, 0, 0);
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  flex: 0 0 auto;
+  font-family: sans-serif;
+  font-size: 12px;
+  font-stretch: 100%;
+  font-weight: 400;
+  grid-auto-flow: row;
+  height: 30px;
+  justify-content: flex-start;
+  object-fit: fill;
+  overflow: visible;
+  position: relative;
+  text-align: start;
+  transform-origin: 177.742px 15px;
+  white-space: pre-wrap;
+  width: 355.484px;
+}
+
+.p-46 {
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(29, 28, 25);
+  color: rgb(29, 28, 25);
+  display: block;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  flex: 0 1 auto;
+  font-family: "DM Serif Display", "DM Serif Display Placeholder", serif;
+  font-size: 30px;
+  font-stretch: 100%;
+  font-weight: 400;
+  grid-auto-flow: row;
+  height: 30px;
+  letter-spacing: -0.5px;
+  line-height: 30px;
+  object-fit: fill;
+  overflow: visible;
+  position: static;
+  text-align: start;
+  transform-origin: 177.742px 15px;
+  white-space: pre-wrap;
+  width: 355.484px;
+}
+
+.div-73 {
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(0, 0, 0);
+  color: rgb(0, 0, 0);
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  flex: 0 0 auto;
+  font-family: sans-serif;
+  font-size: 12px;
+  font-stretch: 100%;
+  font-weight: 400;
+  grid-auto-flow: row;
+  height: 49.5938px;
+  justify-content: flex-start;
+  object-fit: fill;
+  overflow: visible;
+  position: relative;
+  text-align: start;
+  transform-origin: 177.742px 24.7969px;
+  white-space: pre-wrap;
+  width: 355.484px;
+}
+
+.p-47 {
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(113, 109, 102);
+  color: rgb(113, 109, 102);
+  display: block;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  flex: 0 1 auto;
+  font-family: "Instrument Sans", "Instrument Sans Placeholder", sans-serif;
+  font-feature-settings: "blwf", "cv03", "cv04", "cv09", "cv11";
+  font-size: 16px;
+  font-stretch: 100%;
+  font-weight: 400;
+  grid-auto-flow: row;
+  height: 49.5938px;
+  line-height: 24.8px;
+  object-fit: fill;
+  overflow: visible;
+  position: static;
+  text-align: start;
+  transform-origin: 177.742px 24.7969px;
+  white-space: pre-wrap;
+  width: 355.484px;
+}
+
+.upload-room {
+  align-items: center;
+  background-color: rgb(29, 28, 25);
+  background-position: 0% 0%;
+  border-color: rgb(0, 0, 0);
+  border-radius: 2px;
+  color: rgb(0, 0, 0);
+  cursor: pointer;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  flex: 0 0 auto;
+  font-family: sans-serif;
+  font-size: 12px;
+  font-stretch: 100%;
+  font-weight: 400;
+  gap: 8px;
+  grid-auto-flow: row;
+  height: 40px;
+  justify-content: center;
+  object-fit: fill;
+  overflow: visible;
+  padding-bottom: 12px;
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-top: 12px;
+  place-items: center normal;
+  position: relative;
+  text-align: start;
+  transform-origin: 66.5px 20px;
+  width: 133px;
+}
+
+.div-74 {
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(0, 0, 0);
+  color: rgb(0, 0, 0);
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  flex: 0 0 auto;
+  font-family: sans-serif;
+  font-size: 12px;
+  font-stretch: 100%;
+  font-weight: 400;
+  grid-auto-flow: row;
+  height: 13px;
+  justify-content: flex-start;
+  object-fit: fill;
+  overflow: visible;
+  position: relative;
+  text-align: start;
+  transform-origin: 39.5px 6.5px;
+  white-space: pre;
+  width: 79px;
+}
+
+.p-48 {
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(255, 255, 255);
+  color: rgb(255, 255, 255);
+  cursor: pointer;
+  display: block;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  flex: 0 1 auto;
+  font-family: "Instrument Sans", "Instrument Sans Placeholder", sans-serif;
+  font-size: 13px;
+  font-stretch: 100%;
+  font-weight: 600;
+  grid-auto-flow: row;
+  height: 13px;
+  line-height: 13px;
+  object-fit: fill;
+  overflow: visible;
+  position: static;
+  text-align: start;
+  transform-origin: 39.5px 6.5px;
+  white-space: pre;
+  width: 79px;
+}
+
+.div-75 {
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(0, 0, 0);
+  color: rgb(0, 0, 0);
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  flex: 0 0 auto;
+  font-family: sans-serif;
+  font-size: 12px;
+  font-stretch: 100%;
+  font-weight: 400;
+  grid-auto-flow: row;
+  height: 11px;
+  justify-content: flex-start;
+  object-fit: fill;
+  overflow: visible;
+  position: relative;
+  text-align: start;
+  transform-origin: 177.742px 5.5px;
+  white-space: pre-wrap;
+  width: 355.484px;
+}
+
+.p-49 {
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(113, 109, 102);
+  color: rgb(113, 109, 102);
+  display: block;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  flex: 0 1 auto;
+  font-family: "Instrument Sans", "Instrument Sans Placeholder", sans-serif;
+  font-size: 11px;
+  font-stretch: 100%;
+  font-weight: 500;
+  grid-auto-flow: row;
+  height: 11px;
+  letter-spacing: 0.4px;
+  line-height: 11px;
+  object-fit: fill;
+  overflow: visible;
+  position: static;
+  text-align: start;
+  transform-origin: 177.742px 5.5px;
+  white-space: pre-wrap;
+  width: 355.484px;
+}
+
+.div-76 {
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(0, 0, 0);
+  color: rgb(0, 0, 0);
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  flex: 0 0 auto;
+  font-family: sans-serif;
+  font-size: 12px;
+  font-stretch: 100%;
+  font-weight: 400;
+  grid-auto-flow: row;
+  height: 24.7969px;
+  justify-content: flex-start;
+  object-fit: fill;
+  overflow: visible;
+  position: relative;
+  text-align: start;
+  transform-origin: 310.203px 12.3984px;
+  white-space: pre-wrap;
+  width: 620.406px;
+}
+
+.p-50 {
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(113, 109, 102);
+  color: rgb(113, 109, 102);
+  display: block;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  flex: 0 1 auto;
+  font-family: "Instrument Sans", "Instrument Sans Placeholder", sans-serif;
+  font-feature-settings: "blwf", "cv03", "cv04", "cv09", "cv11";
+  font-size: 16px;
+  font-stretch: 100%;
+  font-weight: 400;
+  grid-auto-flow: row;
+  height: 24.7969px;
+  line-height: 24.8px;
+  object-fit: fill;
+  overflow: visible;
+  position: static;
+  text-align: start;
+  transform-origin: 310.203px 12.3984px;
+  white-space: pre-wrap;
+  width: 620.406px;
+}
+
+.design-controls {
+  align-items: flex-start;
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(0, 0, 0);
+  color: rgb(0, 0, 0);
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  flex: 0 0 auto;
+  font-family: sans-serif;
+  font-size: 12px;
+  font-stretch: 100%;
+  font-weight: 400;
+  gap: 23px;
+  grid-auto-flow: row;
+  height: 613.781px;
+  justify-content: flex-start;
+  object-fit: fill;
+  overflow: visible;
+  place-items: flex-start normal;
+  position: relative;
+  text-align: start;
+  transform-origin: 220.797px 306.891px;
+  width: 441.594px;
+}
+
+.div-77 {
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(0, 0, 0);
+  color: rgb(0, 0, 0);
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  flex: 0 0 auto;
+  font-family: sans-serif;
+  font-size: 12px;
+  font-stretch: 100%;
+  font-weight: 400;
+  grid-auto-flow: row;
+  height: 11px;
+  justify-content: flex-start;
+  object-fit: fill;
+  overflow: visible;
+  position: relative;
+  text-align: start;
+  transform-origin: 220.797px 5.5px;
+  white-space: pre-wrap;
+  width: 441.594px;
+}
+
+.p-51 {
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(113, 109, 102);
+  color: rgb(113, 109, 102);
+  display: block;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  flex: 0 1 auto;
+  font-family: "Instrument Sans", "Instrument Sans Placeholder", sans-serif;
+  font-feature-settings: "blwf", "cv03", "cv04", "cv09", "cv11";
+  font-size: 11px;
+  font-stretch: 100%;
+  font-weight: 600;
+  grid-auto-flow: row;
+  height: 11px;
+  letter-spacing: 1.4px;
+  line-height: 11px;
+  object-fit: fill;
+  overflow: visible;
+  position: static;
+  text-align: start;
+  text-transform: uppercase;
+  transform-origin: 220.797px 5.5px;
+  white-space: pre-wrap;
+  width: 441.594px;
+}
+
+.div-78 {
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(0, 0, 0);
+  color: rgb(0, 0, 0);
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  flex: 0 0 auto;
+  font-family: sans-serif;
+  font-size: 12px;
+  font-stretch: 100%;
+  font-weight: 400;
+  grid-auto-flow: row;
+  height: 50.4062px;
+  justify-content: flex-start;
+  object-fit: fill;
+  overflow: visible;
+  position: relative;
+  text-align: start;
+  transform-origin: 220.797px 25.2031px;
+  white-space: pre-wrap;
+  width: 441.594px;
+}
+
+.h2-2 {
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(29, 28, 25);
+  color: rgb(29, 28, 25);
+  display: block;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  flex: 0 1 auto;
+  font-family: "DM Serif Display", "DM Serif Display Placeholder", serif;
+  font-feature-settings: "blwf", "cv03", "cv04", "cv09", "cv11";
+  font-size: 48px;
+  font-stretch: 100%;
+  font-weight: 400;
+  grid-auto-flow: row;
+  height: 50.4062px;
+  letter-spacing: -1px;
+  line-height: 50.4px;
+  object-fit: fill;
+  overflow: visible;
+  position: static;
+  text-align: start;
+  transform-origin: 220.797px 25.2031px;
+  white-space: pre-wrap;
+  width: 441.594px;
+}
+
+.div-79 {
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(0, 0, 0);
+  color: rgb(0, 0, 0);
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  flex: 0 0 auto;
+  font-family: sans-serif;
+  font-size: 12px;
+  font-stretch: 100%;
+  font-weight: 400;
+  grid-auto-flow: row;
+  height: 49.5938px;
+  justify-content: flex-start;
+  object-fit: fill;
+  overflow: visible;
+  position: relative;
+  text-align: start;
+  transform-origin: 220.797px 24.7969px;
+  white-space: pre-wrap;
+  width: 441.594px;
+}
+
+.p-52 {
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(113, 109, 102);
+  color: rgb(113, 109, 102);
+  display: block;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  flex: 0 1 auto;
+  font-family: "Instrument Sans", "Instrument Sans Placeholder", sans-serif;
+  font-feature-settings: "blwf", "cv03", "cv04", "cv09", "cv11";
+  font-size: 16px;
+  font-stretch: 100%;
+  font-weight: 400;
+  grid-auto-flow: row;
+  height: 49.5938px;
+  line-height: 24.8px;
+  object-fit: fill;
+  overflow: visible;
+  position: static;
+  text-align: start;
+  transform-origin: 220.797px 24.7969px;
+  white-space: pre-wrap;
+  width: 441.594px;
+}
+
+.room-type {
+  align-items: flex-start;
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(0, 0, 0);
+  color: rgb(0, 0, 0);
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  flex: 0 0 auto;
+  font-family: sans-serif;
+  font-size: 12px;
+  font-stretch: 100%;
+  font-weight: 400;
+  gap: 10px;
+  grid-auto-flow: row;
+  height: 53px;
+  justify-content: flex-start;
+  object-fit: fill;
+  overflow: visible;
+  place-items: flex-start normal;
+  position: relative;
+  text-align: start;
+  transform-origin: 220.797px 26.5px;
+  width: 441.594px;
+}
+
+.room-type-options {
+  align-items: center;
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(0, 0, 0);
+  color: rgb(0, 0, 0);
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  flex: 0 0 auto;
+  font-family: sans-serif;
+  font-size: 12px;
+  font-stretch: 100%;
+  font-weight: 400;
+  gap: 8px;
+  grid-auto-flow: row;
+  height: 32px;
+  justify-content: flex-start;
+  object-fit: fill;
+  overflow: visible;
+  place-items: center normal;
+  position: relative;
+  text-align: start;
+  transform-origin: 220.797px 16px;
+  width: 441.594px;
+}
+
+.bedroom-selected {
+  align-items: center;
+  background-color: rgb(83, 96, 82);
+  background-position: 0% 0%;
+  border-color: rgb(0, 0, 0);
+  border-radius: 2px;
+  color: rgb(0, 0, 0);
+  cursor: pointer;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  flex: 0 0 auto;
+  font-family: sans-serif;
+  font-size: 12px;
+  font-stretch: 100%;
+  font-weight: 400;
+  grid-auto-flow: row;
+  height: 32px;
+  justify-content: center;
+  object-fit: fill;
+  overflow: visible;
+  padding-bottom: 10px;
+  padding-left: 13px;
+  padding-right: 13px;
+  padding-top: 10px;
+  place-items: center normal;
+  position: relative;
+  text-align: start;
+  transform-origin: 39px 16px;
+  width: 78px;
+}
+
+.div-80 {
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(0, 0, 0);
+  color: rgb(0, 0, 0);
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  flex: 0 0 auto;
+  font-family: sans-serif;
+  font-size: 12px;
+  font-stretch: 100%;
+  font-weight: 400;
+  grid-auto-flow: row;
+  height: 12px;
+  justify-content: flex-start;
+  object-fit: fill;
+  overflow: visible;
+  position: relative;
+  text-align: start;
+  transform-origin: 26px 6px;
+  white-space: pre;
+  width: 52px;
+}
+
+.p-53 {
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(255, 255, 255);
+  color: rgb(255, 255, 255);
+  cursor: pointer;
+  display: block;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  flex: 0 1 auto;
+  font-family: "Instrument Sans", "Instrument Sans Placeholder", sans-serif;
+  font-size: 12px;
+  font-stretch: 100%;
+  font-weight: 600;
+  grid-auto-flow: row;
+  height: 12px;
+  line-height: 12px;
+  object-fit: fill;
+  overflow: visible;
+  position: static;
+  text-align: start;
+  transform-origin: 26px 6px;
+  white-space: pre;
+  width: 52px;
+}
+
+.living-room {
+  align-items: center;
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(0, 0, 0);
+  border-radius: 2px;
+  color: rgb(0, 0, 0);
+  cursor: pointer;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  flex: 0 0 auto;
+  font-family: sans-serif;
+  font-size: 12px;
+  font-stretch: 100%;
+  font-weight: 400;
+  grid-auto-flow: row;
+  height: 30px;
+  justify-content: center;
+  object-fit: fill;
+  overflow: visible;
+  padding-bottom: 9px;
+  padding-left: 12px;
+  padding-right: 12px;
+  padding-top: 9px;
+  place-items: center normal;
+  position: relative;
+  text-align: start;
+  transform-origin: 44.5px 15px;
+  width: 89px;
+}
+
+.div-81 {
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(0, 0, 0);
+  color: rgb(0, 0, 0);
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  flex: 0 0 auto;
+  font-family: sans-serif;
+  font-size: 12px;
+  font-stretch: 100%;
+  font-weight: 400;
+  grid-auto-flow: row;
+  height: 12px;
+  justify-content: flex-start;
+  object-fit: fill;
+  overflow: visible;
+  position: relative;
+  text-align: start;
+  transform-origin: 32.5px 6px;
+  white-space: pre;
+  width: 65px;
+}
+
+.p-54 {
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(29, 28, 25);
+  color: rgb(29, 28, 25);
+  cursor: pointer;
+  display: block;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  flex: 0 1 auto;
+  font-family: "Instrument Sans", "Instrument Sans Placeholder", sans-serif;
+  font-size: 12px;
+  font-stretch: 100%;
+  font-weight: 500;
+  grid-auto-flow: row;
+  height: 12px;
+  line-height: 12px;
+  object-fit: fill;
+  overflow: visible;
+  position: static;
+  text-align: start;
+  transform-origin: 32.5px 6px;
+  white-space: pre;
+  width: 65px;
+}
+
+.dining {
+  align-items: center;
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(0, 0, 0);
+  border-radius: 2px;
+  color: rgb(0, 0, 0);
+  cursor: pointer;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  flex: 0 0 auto;
+  font-family: sans-serif;
+  font-size: 12px;
+  font-stretch: 100%;
+  font-weight: 400;
+  grid-auto-flow: row;
+  height: 30px;
+  justify-content: center;
+  object-fit: fill;
+  overflow: visible;
+  padding-bottom: 9px;
+  padding-left: 12px;
+  padding-right: 12px;
+  padding-top: 9px;
+  place-items: center normal;
+  position: relative;
+  text-align: start;
+  transform-origin: 30px 15px;
+  width: 60px;
+}
+
+.div-82 {
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(0, 0, 0);
+  color: rgb(0, 0, 0);
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  flex: 0 0 auto;
+  font-family: sans-serif;
+  font-size: 12px;
+  font-stretch: 100%;
+  font-weight: 400;
+  grid-auto-flow: row;
+  height: 12px;
+  justify-content: flex-start;
+  object-fit: fill;
+  overflow: visible;
+  position: relative;
+  text-align: start;
+  transform-origin: 18px 6px;
+  white-space: pre;
+  width: 36px;
+}
+
+.p-55 {
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(29, 28, 25);
+  color: rgb(29, 28, 25);
+  cursor: pointer;
+  display: block;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  flex: 0 1 auto;
+  font-family: "Instrument Sans", "Instrument Sans Placeholder", sans-serif;
+  font-size: 12px;
+  font-stretch: 100%;
+  font-weight: 500;
+  grid-auto-flow: row;
+  height: 12px;
+  line-height: 12px;
+  object-fit: fill;
+  overflow: visible;
+  position: static;
+  text-align: start;
+  transform-origin: 18px 6px;
+  white-space: pre;
+  width: 36px;
+}
+
+.style-choices {
+  align-items: flex-start;
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(0, 0, 0);
+  color: rgb(0, 0, 0);
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  flex: 0 0 auto;
+  font-family: sans-serif;
+  font-size: 12px;
+  font-stretch: 100%;
+  font-weight: 400;
+  gap: 10px;
+  grid-auto-flow: row;
+  height: 155px;
+  justify-content: flex-start;
+  object-fit: fill;
+  overflow: visible;
+  place-items: flex-start normal;
+  position: relative;
+  text-align: start;
+  transform-origin: 220.797px 77.5px;
+  width: 441.594px;
+}
+
+.style-cards {
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(0, 0, 0);
+  color: rgb(0, 0, 0);
+  display: grid;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  flex: 0 0 auto;
+  font-family: sans-serif;
+  font-size: 12px;
+  font-stretch: 100%;
+  font-weight: 400;
+  gap: 8px;
+  grid-auto-flow: row;
+  grid-auto-rows: min-content;
+  grid-template-columns: 206px 206px;
+  grid-template-rows: 52px 52px;
+  height: 112px;
+  justify-content: start;
+  max-width: 100%;
+  object-fit: fill;
+  overflow: visible;
+  position: relative;
+  text-align: start;
+  transform-origin: 210px 56px;
+  width: 420px;
+}
+
+.minimal-selected-2 {
+  align-items: center;
+  align-self: start;
+  background-color: rgb(238, 233, 224);
+  background-position: 0% 0%;
+  border-color: rgb(0, 0, 0);
+  border-radius: 2px;
+  color: rgb(0, 0, 0);
+  cursor: pointer;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  flex: 0 0 auto;
+  font-family: sans-serif;
+  font-size: 12px;
+  font-stretch: 100%;
+  font-weight: 400;
+  gap: 9px;
+  grid-auto-flow: row;
+  height: 52px;
+  justify-content: flex-start;
+  object-fit: fill;
+  overflow: visible;
+  padding-bottom: 8px;
+  padding-left: 8px;
+  padding-right: 8px;
+  padding-top: 8px;
+  place-items: center normal;
+  position: relative;
+  text-align: start;
+  transform-origin: 103px 26px;
+  width: 206px;
+}
+
+.div-83 {
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(0, 0, 0);
+  border-radius: 2px;
+  color: rgb(0, 0, 0);
+  cursor: pointer;
+  display: block;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  flex: 0 0 auto;
+  font-family: sans-serif;
+  font-size: 12px;
+  font-stretch: 100%;
+  font-weight: 400;
+  grid-auto-flow: row;
+  height: 36px;
+  min-height: 0;
+  object-fit: fill;
+  overflow: clip;
+  position: relative;
+  text-align: start;
+  transform-origin: 21px 18px;
+  width: 42px;
+}
+
+.div-84 {
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(0, 0, 0);
+  border-radius: 2px;
+  color: rgb(0, 0, 0);
+  cursor: pointer;
+  display: block;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  flex: 0 1 auto;
+  font-family: sans-serif;
+  font-size: 12px;
+  font-stretch: 100%;
+  font-weight: 400;
+  grid-auto-flow: row;
+  height: 36px;
+  object-fit: fill;
+  overflow: visible;
+  position: absolute;
+  text-align: start;
+  transform-origin: 21px 18px;
+  width: 42px;
+}
+
+.img-18 {
+  aspect-ratio: auto 1800 / 1200;
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(0, 0, 0);
+  border-radius: 2px;
+  color: rgb(0, 0, 0);
+  cursor: pointer;
+  display: block;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  flex: 0 1 auto;
+  font-family: sans-serif;
+  font-size: 12px;
+  font-stretch: 100%;
+  font-weight: 400;
+  grid-auto-flow: row;
+  height: 36px;
+  min-height: 0;
+  object-fit: cover;
+  overflow: clip;
+  position: static;
+  text-align: start;
+  transform-origin: 21px 18px;
+  width: 42px;
+}
+
+.div-85 {
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(0, 0, 0);
+  color: rgb(0, 0, 0);
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  flex: 1 0 0px;
+  font-family: sans-serif;
+  font-size: 12px;
+  font-stretch: 100%;
+  font-weight: 400;
+  grid-auto-flow: row;
+  height: 12px;
+  justify-content: flex-start;
+  object-fit: fill;
+  overflow: visible;
+  position: relative;
+  text-align: start;
+  transform-origin: 69.5px 6px;
+  white-space: pre-wrap;
+  width: 139px;
+}
+
+.p-56 {
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(29, 28, 25);
+  color: rgb(29, 28, 25);
+  cursor: pointer;
+  display: block;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  flex: 0 1 auto;
+  font-family: "Instrument Sans", "Instrument Sans Placeholder", sans-serif;
+  font-size: 12px;
+  font-stretch: 100%;
+  font-weight: 600;
+  grid-auto-flow: row;
+  height: 12px;
+  line-height: 12px;
+  object-fit: fill;
+  overflow: visible;
+  position: static;
+  text-align: start;
+  transform-origin: 69.5px 6px;
+  white-space: pre-wrap;
+  width: 139px;
+}
+
+.japandi-2 {
+  align-items: center;
+  align-self: start;
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(0, 0, 0);
+  border-radius: 2px;
+  color: rgb(0, 0, 0);
+  cursor: pointer;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  flex: 0 0 auto;
+  font-family: sans-serif;
+  font-size: 12px;
+  font-stretch: 100%;
+  font-weight: 400;
+  gap: 9px;
+  grid-auto-flow: row;
+  height: 52px;
+  justify-content: flex-start;
+  object-fit: fill;
+  overflow: visible;
+  padding-bottom: 8px;
+  padding-left: 8px;
+  padding-right: 8px;
+  padding-top: 8px;
+  place-items: center normal;
+  position: relative;
+  text-align: start;
+  transform-origin: 103px 26px;
+  width: 206px;
+}
+
+.p-57 {
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(29, 28, 25);
+  color: rgb(29, 28, 25);
+  cursor: pointer;
+  display: block;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  flex: 0 1 auto;
+  font-family: "Instrument Sans", "Instrument Sans Placeholder", sans-serif;
+  font-size: 12px;
+  font-stretch: 100%;
+  font-weight: 500;
+  grid-auto-flow: row;
+  height: 12px;
+  line-height: 12px;
+  object-fit: fill;
+  overflow: visible;
+  position: static;
+  text-align: start;
+  transform-origin: 69.5px 6px;
+  white-space: pre-wrap;
+  width: 139px;
+}
+
+.img-19 {
+  aspect-ratio: auto 1800 / 1013;
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(0, 0, 0);
+  border-radius: 2px;
+  color: rgb(0, 0, 0);
+  cursor: pointer;
+  display: block;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  flex: 0 1 auto;
+  font-family: sans-serif;
+  font-size: 12px;
+  font-stretch: 100%;
+  font-weight: 400;
+  grid-auto-flow: row;
+  height: 36px;
+  min-height: 0;
+  object-fit: cover;
+  overflow: clip;
+  position: static;
+  text-align: start;
+  transform-origin: 21px 18px;
+  width: 42px;
+}
+
+.img-20 {
+  aspect-ratio: auto 1800 / 1199;
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(0, 0, 0);
+  border-radius: 2px;
+  color: rgb(0, 0, 0);
+  cursor: pointer;
+  display: block;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  flex: 0 1 auto;
+  font-family: sans-serif;
+  font-size: 12px;
+  font-stretch: 100%;
+  font-weight: 400;
+  grid-auto-flow: row;
+  height: 36px;
+  min-height: 0;
+  object-fit: cover;
+  overflow: clip;
+  position: static;
+  text-align: start;
+  transform-origin: 21px 18px;
+  width: 42px;
+}
+
+.more-styles {
+  align-items: center;
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(0, 0, 0);
+  color: rgb(0, 0, 0);
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  flex: 0 0 auto;
+  font-family: sans-serif;
+  font-size: 12px;
+  font-stretch: 100%;
+  font-weight: 400;
+  gap: 8px;
+  grid-auto-flow: row;
+  height: 12px;
+  justify-content: flex-start;
+  object-fit: fill;
+  overflow: visible;
+  place-items: center normal;
+  position: relative;
+  text-align: start;
+  transform-origin: 220.797px 6px;
+  width: 441.594px;
+}
+
+.div-86 {
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(0, 0, 0);
+  color: rgb(0, 0, 0);
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  flex: 1 0 0px;
+  font-family: sans-serif;
+  font-size: 12px;
+  font-stretch: 100%;
+  font-weight: 400;
+  grid-auto-flow: row;
+  height: 12px;
+  justify-content: flex-start;
+  object-fit: fill;
+  overflow: visible;
+  position: relative;
+  text-align: start;
+  transform-origin: 220.797px 6px;
+  white-space: pre-wrap;
+  width: 441.594px;
+}
+
+.p-58 {
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(113, 109, 102);
+  color: rgb(113, 109, 102);
+  display: block;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  flex: 0 1 auto;
+  font-family: "Instrument Sans", "Instrument Sans Placeholder", sans-serif;
+  font-size: 12px;
+  font-stretch: 100%;
+  font-weight: 500;
+  grid-auto-flow: row;
+  height: 12px;
+  line-height: 12px;
+  object-fit: fill;
+  overflow: visible;
+  position: static;
+  text-align: start;
+  transform-origin: 220.797px 6px;
+  white-space: pre-wrap;
+  width: 441.594px;
+}
+
+.preferences {
+  align-items: flex-start;
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(0, 0, 0);
+  color: rgb(0, 0, 0);
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  flex: 0 0 auto;
+  font-family: sans-serif;
+  font-size: 12px;
+  font-stretch: 100%;
+  font-weight: 400;
+  gap: 12px;
+  grid-auto-flow: row;
+  height: 108.781px;
+  justify-content: flex-start;
+  object-fit: fill;
+  overflow: visible;
+  place-items: flex-start normal;
+  position: relative;
+  text-align: start;
+  transform-origin: 220.797px 54.3906px;
+  width: 441.594px;
+}
+
+.div-87 {
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(0, 0, 0);
+  color: rgb(0, 0, 0);
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  flex: 0 0 auto;
+  font-family: sans-serif;
+  font-size: 12px;
+  font-stretch: 100%;
+  font-weight: 400;
+  grid-auto-flow: row;
+  height: 85.7812px;
+  justify-content: flex-start;
+  object-fit: fill;
+  overflow: visible;
+  position: relative;
+  text-align: start;
+  transform-origin: 220.797px 42.8906px;
+  white-space: pre-wrap;
+  width: 441.594px;
+}
+
+.p-59 {
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(29, 28, 25);
+  color: rgb(29, 28, 25);
+  display: block;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  flex: 0 1 auto;
+  font-family: "Instrument Sans", "Instrument Sans Placeholder", sans-serif;
+  font-size: 13px;
+  font-stretch: 100%;
+  font-weight: 500;
+  grid-auto-flow: row;
+  height: 85.7812px;
+  line-height: 28.6px;
+  object-fit: fill;
+  overflow: visible;
+  position: static;
+  text-align: start;
+  transform-origin: 220.797px 42.8906px;
+  white-space: pre-wrap;
+  width: 441.594px;
+}
+
+.br {
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(29, 28, 25);
+  color: rgb(29, 28, 25);
+  display: inline;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  flex: 0 1 auto;
+  font-family: "Instrument Sans", "Instrument Sans Placeholder", sans-serif;
+  font-size: 13px;
+  font-stretch: 100%;
+  font-weight: 500;
+  grid-auto-flow: row;
+  line-height: 28.6px;
+  object-fit: fill;
+  overflow: visible;
+  position: static;
+  text-align: start;
+  transform-origin: 0px 0px;
+  white-space: pre-wrap;
+}
+
+.transform-my-room {
+  align-items: center;
+  background-color: rgb(29, 28, 25);
+  background-position: 0% 0%;
+  border-color: rgb(0, 0, 0);
+  border-radius: 2px;
+  color: rgb(0, 0, 0);
+  cursor: pointer;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  flex: 0 0 auto;
+  font-family: sans-serif;
+  font-size: 12px;
+  font-stretch: 100%;
+  font-weight: 400;
+  gap: 10px;
+  grid-auto-flow: row;
+  height: 48px;
+  justify-content: center;
+  object-fit: fill;
+  overflow: visible;
+  padding-bottom: 17px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 17px;
+  place-items: center normal;
+  position: relative;
+  text-align: start;
+  transform-origin: 220.797px 24px;
+  width: 441.594px;
+}
+
+.div-88 {
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(0, 0, 0);
+  color: rgb(0, 0, 0);
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  flex: 0 0 auto;
+  font-family: sans-serif;
+  font-size: 12px;
+  font-stretch: 100%;
+  font-weight: 400;
+  grid-auto-flow: row;
+  height: 14px;
+  justify-content: flex-start;
+  object-fit: fill;
+  overflow: visible;
+  position: relative;
+  text-align: start;
+  transform-origin: 72.5px 7px;
+  white-space: pre;
+  width: 145px;
+}
+
+.p-60 {
+  background-color: rgba(0, 0, 0, 0);
+  background-position: 0% 0%;
+  border-color: rgb(255, 255, 255);
+  color: rgb(255, 255, 255);
+  cursor: pointer;
+  display: block;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  flex: 0 1 auto;
+  font-family: "Instrument Sans", "Instrument Sans Placeholder", sans-serif;
+  font-size: 14px;
+  font-stretch: 100%;
+  font-weight: 600;
+  grid-auto-flow: row;
+  height: 14px;
+  line-height: 14px;
+  object-fit: fill;
+  overflow: visible;
+  position: static;
+  text-align: start;
+  transform-origin: 72.5px 7px;
+  white-space: pre;
+  width: 145px;
+}
+
+/*
+ * Responsive layout repairs
+ *
+ * The source export uses a fixed 1440px canvas and fixed-height text frames.
+ * Keep the original visual system, but let the document participate in normal
+ * flow so text can wrap and the same composition scales between breakpoints.
+ */
+:global(html) {
+  background: rgb(244, 241, 235);
+}
+
+:global(body) {
+  margin: 0;
+  min-width: 320px;
+}
+
+:global(#root) {
+  min-width: 0;
+  overflow-x: clip;
+}
+
+.div-4,
+.div-5,
+.div-67,
+.div-68 {
+  width: 100%;
+  max-width: none;
+  height: auto;
+  min-height: 100vh;
+}
+
+.div-4,
+.div-67 {
+  overflow: visible;
+}
+
+.div-5,
+.div-68 {
+  align-items: stretch;
+  overflow: visible;
+}
+
+.div-5 *,
+.div-68 * {
+  min-width: 0;
+}
+
+.div-5 img,
+.div-68 img {
+  display: block;
+  max-width: 100%;
+}
+
+/* Shared page frame */
+.roomify-navigation,
+.studio-header,
+.roomify-introduction,
+.how-it-works,
+.interactive-room-makeover,
+.style-explorer,
+.design-your-space,
+.inspiration-gallery,
+.design-studio-workspace,
+.roomify-footer {
+  box-sizing: border-box;
+  width: 100%;
+  max-width: 1200px;
+  height: auto;
+  min-height: 0;
+  margin-inline: auto;
+}
+
+.roomify-navigation,
+.studio-header {
+  flex-shrink: 0;
+  min-height: 64px;
+  padding: 16px 48px;
+}
+
+.roomify-navigation {
+  position: sticky;
+  top: 0;
+  justify-content: space-between;
+  z-index: 10;
+}
+
+.navigation-links,
+.navigation-actions,
+.studio-header-links,
+.introduction-actions {
+  width: auto;
+  height: auto;
+}
+
+.navigation-links {
+  flex: 1 1 auto;
+}
+
+.start-designing,
+.primary,
+.primary-2 {
+  box-sizing: border-box;
+  width: auto;
+  max-width: 100%;
+  height: auto;
+  min-height: 46px;
+  padding: 14px 20px;
+  text-decoration: none;
+}
+
+.primary > .div,
+.primary-2 > .div-2,
+.primary .p,
+.primary-2 .p-2,
+.start-designing .div-11,
+.start-designing .p-9 {
+  width: auto;
+  height: auto;
+  white-space: normal;
+}
+
+.div-16,
+.div-17,
+.div-41,
+.div-48 {
+  width: auto;
+  height: auto;
+}
+
+/* Hero */
+.roomify-introduction {
+  display: grid;
+  grid-template-columns: minmax(0, 0.9fr) minmax(0, 1.1fr);
+  align-items: center;
+  gap: clamp(32px, 5vw, 64px);
+  padding: clamp(52px, 7vw, 76px) 48px clamp(48px, 6vw, 64px);
+  overflow: visible;
+}
+
+.introduction-copy {
+  width: auto;
+  max-width: 500px;
+  height: auto;
+  gap: 24px;
+}
+
+.div-13,
+.div-14,
+.div-15,
+.introduction-copy .h1,
+.introduction-copy .p-10,
+.introduction-copy .p-11 {
+  width: 100%;
+  max-width: 100%;
+  height: auto;
+  white-space: normal;
+}
+
+.h1 {
+  font-size: clamp(48px, 6vw, 76px);
+  line-height: 0.98;
+  letter-spacing: -0.04em;
+}
+
+.p-11 {
+  max-width: 48ch;
+  line-height: 1.55;
+}
+
+.introduction-actions {
+  flex-wrap: wrap;
+  gap: 16px 22px;
+}
+
+.hero-interior {
+  box-sizing: border-box;
+  width: 100%;
+  height: auto;
+  min-height: 320px;
+  aspect-ratio: 1.06 / 1;
+  padding: 20px;
+}
+
+.div-18,
+.hero-interior .img {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.hero-interior .img {
+  object-fit: cover;
+}
+
+.ai-room-makeover,
+.div-19,
+.p-13 {
+  width: auto;
+  height: auto;
+  white-space: normal;
+}
+
+.ai-room-makeover {
+  position: relative;
+  z-index: 1;
+}
+
+/* Section headings and text frames */
+.how-it-works,
+.interactive-room-makeover,
+.style-explorer,
+.design-your-space,
+.inspiration-gallery {
+  align-items: flex-start;
+  overflow: visible;
+}
+
+.how-it-works {
+  gap: 36px;
+  padding: clamp(56px, 7vw, 76px) 48px;
+}
+
+.interactive-room-makeover,
+.design-your-space {
+  gap: 24px;
+  padding: clamp(56px, 7vw, 76px) 48px;
+}
+
+.style-explorer,
+.inspiration-gallery {
+  gap: 32px;
+  padding: clamp(56px, 7vw, 76px) 48px;
+}
+
+.inspiration-gallery {
+  padding-bottom: clamp(64px, 8vw, 88px);
+}
+
+.div-20,
+.div-29,
+.choose-direction-2,
+.h2,
+.p-20,
+.p-34,
+.p-35 {
+  width: 100%;
+  max-width: 100%;
+  height: auto;
+  white-space: normal;
+}
+
+.h2,
+.p-35 {
+  max-width: 790px;
+  font-size: clamp(36px, 4.1vw, 48px);
+  line-height: 1.05;
+  letter-spacing: -0.03em;
+}
+
+.how-it-works p,
+.interactive-room-makeover p,
+.style-explorer p,
+.design-your-space p,
+.inspiration-gallery p,
+.roomify-footer p {
+  width: 100%;
+  max-width: 100%;
+  height: auto;
+  white-space: normal;
+}
+
+/* How it works */
+.makeover-steps {
+  width: 100%;
+  height: auto;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  grid-template-rows: none;
+  gap: 24px;
+}
+
+.makeover-steps > div {
+  width: auto;
+  height: auto;
+  gap: 14px;
+}
+
+.makeover-steps > div > :is(.upload-space, .choose-direction) {
+  position: relative;
+  width: 100%;
+  height: auto;
+  aspect-ratio: 1.22 / 1;
+  overflow: hidden;
+}
+
+.makeover-steps > div > :is(.upload-space, .choose-direction) > div,
+.makeover-steps > div > :is(.upload-space, .choose-direction) img {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.makeover-steps > div > :is(.upload-space, .choose-direction) img {
+  object-fit: cover;
+}
+
+.makeover-steps > div > :not(.upload-space):not(.choose-direction),
+.div-22,
+.div-23,
+.div-24,
+.div-26,
+.div-27,
+.div-28,
+.p-14,
+.p-15,
+.p-16,
+.p-17,
+.p-18,
+.p-19 {
+  width: 100%;
+  max-width: 100%;
+  height: auto;
+  white-space: normal;
+}
+
+.p-16,
+.p-19 {
+  line-height: 1.5;
+}
+
+/* Before / after and studio direction */
+.before-and-after-comparison {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  width: 100%;
+  height: auto;
+  overflow: hidden;
+}
+
+.before {
+  box-sizing: border-box;
+  width: auto;
+  height: auto;
+  aspect-ratio: 1.175 / 1;
+  padding: 18px;
+}
+
+.div-30,
+.before .img-5,
+.before .img-6 {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.before .img-5,
+.before .img-6 {
+  object-fit: cover;
+}
+
+.div-31,
+.div-32,
+.p-21,
+.p-22 {
+  width: auto;
+  height: auto;
+  white-space: normal;
+}
+
+.div-31,
+.div-32 {
+  position: relative;
+  z-index: 1;
+}
+
+.comparison-divider {
+  top: 0;
+  bottom: auto;
+  left: 50%;
+  right: auto;
+  width: 3px;
+  height: 100%;
+  transform: translateX(-50%);
+}
+
+.choose-direction-2 {
+  gap: 14px;
+}
+
+.style-options {
+  width: 100%;
+  height: auto;
+  gap: 10px;
+}
+
+/* Style explorer */
+.interior-style-grid {
+  width: 100%;
+  height: auto;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  grid-template-rows: none;
+  grid-auto-rows: auto;
+  align-items: start;
+  gap: 28px 18px;
+}
+
+.interior-style-grid > div {
+  width: auto;
+  height: auto;
+  gap: 12px;
+}
+
+.minimal-interior,
+.luxury-interior {
+  position: relative;
+  width: 100%;
+  height: auto;
+}
+
+.minimal-interior {
+  aspect-ratio: 356 / 320;
+}
+
+.luxury-interior {
+  aspect-ratio: 356 / 360;
+}
+
+.interior-style-grid > div > div:first-child > div,
+.interior-style-grid > div > div:first-child img {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.interior-style-grid > div > div:first-child img {
+  object-fit: cover;
+}
+
+.interior-style-grid > div > div:not(:first-child),
+.div-43,
+.div-44,
+.div-45,
+.p-31,
+.p-32,
+.p-33 {
+  width: 100%;
+  max-width: 100%;
+  height: auto;
+  white-space: normal;
+}
+
+.p-32,
+.p-33 {
+  line-height: 1.5;
+}
+
+/* Design your space */
+.roomify-concept-interface {
+  display: grid;
+  grid-template-columns: minmax(300px, 0.85fr) minmax(0, 1.15fr);
+  align-items: center;
+  width: 100%;
+  height: auto;
+  gap: 20px;
+}
+
+.customization-controls {
+  box-sizing: border-box;
+  width: auto;
+  height: auto;
+  min-height: 0;
+  align-self: center;
+  gap: 14px;
+  padding: 24px;
+}
+
+.div-47,
+.p-36 {
+  width: 100%;
+  max-width: 100%;
+  height: auto;
+  white-space: normal;
+  line-height: 1.5;
+}
+
+.div-48 {
+  width: 100%;
+  margin-top: 4px;
+}
+
+.customization-controls .primary-2 {
+  width: 100%;
+}
+
+.generated-room-preview {
+  position: relative;
+  width: auto;
+  height: auto;
+  min-height: 0;
+  aspect-ratio: 1.4 / 1;
+}
+
+.div-49,
+.generated-room-preview .img-12 {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.generated-room-preview .img-12 {
+  object-fit: cover;
+}
+
+/* Inspiration gallery */
+.saved-spaces {
+  width: 100%;
+  height: auto;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  grid-template-rows: none;
+  grid-auto-rows: auto;
+  align-items: start;
+  gap: 18px;
+}
+
+.saved-spaces > div {
+  width: auto;
+  height: auto;
+  gap: 18px;
+}
+
+.saved-spaces > div > div {
+  box-sizing: border-box;
+  width: 100%;
+  height: auto;
+  min-height: 0;
+}
+
+.warm-minimal-bedroom { aspect-ratio: 356 / 390; }
+.urban-japandi-workspace { aspect-ratio: 356 / 320; }
+.modern-earth-living-room { aspect-ratio: 356 / 290; }
+.quiet-luxury-bedroom { aspect-ratio: 356 / 430; }
+
+.saved-spaces > div > div > div:first-child,
+.saved-spaces > div > div > div:first-child img {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.saved-spaces > div > div > div:first-child img {
+  object-fit: cover;
+}
+
+.saved-spaces > div > div > div:nth-child(2),
+.div-52,
+.div-54,
+.div-56,
+.div-58 {
+  position: relative;
+  z-index: 1;
+  width: auto;
+  height: auto;
+}
+
+.saved-spaces .svg-3 {
+  top: 16px;
+  right: auto;
+  bottom: auto;
+  left: 16px;
+  z-index: 1;
+}
+
+.mark {
+  white-space: normal;
+}
+
+/* Keep the footer in normal document flow as section heights change. */
+.roomify-footer {
+  position: relative;
+  top: auto;
+  flex-shrink: 0;
+  padding: 24px 48px;
+}
+
+.div-61,
+.div-62,
+.p-41,
+.p-42 {
+  width: auto;
+  height: auto;
+  white-space: normal;
+}
+
+/* Framer's exported editor/chrome is not part of the Roomify product UI. */
+.div-63,
+.div-65,
+.div-66,
+.iframe {
+  display: none;
+}
+
+/* Studio page receives the same fluid frame without changing its controls. */
+.studio-header {
+  justify-content: space-between;
+}
+
+.design-studio-workspace {
+  display: grid;
+  grid-template-columns: minmax(0, 1.15fr) minmax(300px, 0.85fr);
+  align-items: start;
+  gap: clamp(28px, 4vw, 42px);
+  padding: clamp(48px, 6vw, 72px) 48px;
+  overflow: visible;
+}
+
+.room-preview,
+.design-controls {
+  width: auto;
+  height: auto;
+}
+
+.room-preview {
+  gap: 14px;
+}
+
+.upload-room-preview {
+  box-sizing: border-box;
+  width: 100%;
+  height: auto;
+  aspect-ratio: 1.07 / 1;
+  padding: 24px;
+}
+
+.div-71,
+.upload-room-preview .img-17 {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.upload-room-preview .img-17 {
+  object-fit: cover;
+}
+
+.upload-room-prompt {
+  box-sizing: border-box;
+  width: min(100%, 404px);
+  height: auto;
+  padding: 20px;
+}
+
+.design-controls {
+  gap: 18px;
+}
+
+.design-controls > div,
+.room-type,
+.style-choices,
+.preferences,
+.room-type-options,
+.style-cards,
+.more-styles,
+.transform-my-room,
+.div-77,
+.div-78,
+.div-79,
+.div-86,
+.div-87,
+.div-88 {
+  width: 100%;
+  max-width: 100%;
+  height: auto;
+}
+
+.design-controls p,
+.design-controls .h2-2,
+.room-preview p {
+  width: 100%;
+  max-width: 100%;
+  height: auto;
+  white-space: normal;
+}
+
+.style-cards {
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  grid-template-rows: none;
+}
+
+.transform-my-room {
+  min-height: 48px;
+}
+
+@media (max-width: 900px) {
+  .roomify-navigation,
+  .studio-header,
+  .roomify-introduction,
+  .how-it-works,
+  .interactive-room-makeover,
+  .style-explorer,
+  .design-your-space,
+  .inspiration-gallery,
+  .design-studio-workspace,
+  .roomify-footer {
+    padding-inline: 32px;
+  }
+
+  .roomify-introduction,
+  .roomify-concept-interface,
+  .design-studio-workspace {
+    grid-template-columns: 1fr;
+  }
+
+  .introduction-copy {
+    max-width: 620px;
+  }
+
+  .hero-interior {
+    max-width: 640px;
+  }
+
+  .makeover-steps,
+  .interior-style-grid,
+  .saved-spaces {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .customization-controls {
+    width: 100%;
+  }
+
+  .generated-room-preview {
+    width: 100%;
+    max-width: 720px;
+  }
+}
+
+@media (max-width: 700px) {
+  .roomify-navigation {
+    flex-wrap: wrap;
+    gap: 14px;
+    padding-block: 14px;
+  }
+
+  .navigation-actions {
+    margin-left: auto;
+  }
+
+  .navigation-links {
+    order: 3;
+    flex-basis: 100%;
+    justify-content: flex-start;
+    gap: 18px;
+    overflow-x: auto;
+    padding-bottom: 2px;
+  }
+
+  .studio-header-links {
+    gap: 18px;
+  }
+}
+
+@media (max-width: 640px) {
+  .roomify-navigation,
+  .studio-header,
+  .roomify-introduction,
+  .how-it-works,
+  .interactive-room-makeover,
+  .style-explorer,
+  .design-your-space,
+  .inspiration-gallery,
+  .design-studio-workspace,
+  .roomify-footer {
+    padding-inline: 20px;
+  }
+
+  .roomify-introduction,
+  .how-it-works,
+  .interactive-room-makeover,
+  .style-explorer,
+  .design-your-space,
+  .inspiration-gallery,
+  .design-studio-workspace {
+    padding-block: 48px;
+  }
+
+  .h1 {
+    font-size: clamp(42px, 13vw, 56px);
+  }
+
+  .h2,
+  .p-35 {
+    font-size: clamp(32px, 10vw, 40px);
+  }
+
+  .hero-interior {
+    min-height: 0;
+    aspect-ratio: 1 / 0.92;
+    padding: 16px;
+  }
+
+  .makeover-steps,
+  .interior-style-grid,
+  .saved-spaces,
+  .before-and-after-comparison {
+    grid-template-columns: 1fr;
+  }
+
+  .before {
+    aspect-ratio: 1.1 / 1;
+  }
+
+  .comparison-divider {
+    display: none;
+  }
+
+  .style-options,
+  .room-type-options {
+    gap: 8px;
+  }
+
+  .customization-controls {
+    padding: 20px;
+  }
+
+  .generated-room-preview {
+    aspect-ratio: 1.15 / 1;
+  }
+
+  .upload-room-preview {
+    min-height: 360px;
+    padding: 16px;
+  }
+
+  .upload-room-prompt {
+    padding: 18px;
+  }
+
+  .roomify-footer {
+    align-items: flex-start;
+    flex-direction: column;
+    gap: 10px;
+  }
+}

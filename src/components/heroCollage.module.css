@@ -1,0 +1,313 @@
+/* ==========================================================================
+   Roomify — Architectural Editorial Hero Collage
+   Inspired by contemporary architectural publications and interior editorials
+   ========================================================================== */
+
+.heroCollageSection {
+  position: relative !important;
+  overflow: visible !important;
+  background-color: transparent !important;
+  isolation: isolate;
+}
+
+/* --------------------------------------------------------------------------
+   Layer 1: Background Blueprint Grid, Blueprint Lines & Watermark
+   -------------------------------------------------------------------------- */
+
+/* Subtle architectural drafting grid */
+.blueprintGrid {
+  position: absolute;
+  top: -20px;
+  left: -40px;
+  right: -40px;
+  bottom: -20px;
+  background-image: 
+    linear-gradient(to right, rgba(29, 28, 25, 0.035) 1px, transparent 1px),
+    linear-gradient(to bottom, rgba(29, 28, 25, 0.035) 1px, transparent 1px);
+  background-size: 36px 36px;
+  background-position: 0 0;
+  pointer-events: none;
+  z-index: 0;
+  mask-image: radial-gradient(ellipse 90% 80% at 50% 50%, black 40%, transparent 95%);
+  -webkit-mask-image: radial-gradient(ellipse 90% 80% at 50% 50%, black 40%, transparent 95%);
+}
+
+/* Oversized editorial serif watermark in deep background */
+.blueprintWatermark {
+  position: absolute;
+  top: 18px;
+  left: 24px;
+  font-family: "DM Serif Display", serif;
+  font-size: 140px;
+  line-height: 0.9;
+  letter-spacing: -0.04em;
+  color: rgba(29, 28, 25, 0.028);
+  pointer-events: none;
+  user-select: none;
+  z-index: 0;
+  white-space: nowrap;
+  text-transform: uppercase;
+}
+
+/* Floor plan architectural linework behind the left headline */
+.floorPlanLinework {
+  position: absolute;
+  top: 40px;
+  left: -20px;
+  width: 580px;
+  height: 480px;
+  pointer-events: none;
+  z-index: 0;
+  opacity: 0.7;
+}
+
+/* Top Editorial Meta Bar */
+.editorialHeaderBar {
+  position: absolute;
+  top: 24px;
+  left: 48px;
+  right: 48px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border-bottom: 1px solid rgba(29, 28, 25, 0.12);
+  padding-bottom: 8px;
+  z-index: 2;
+  font-family: "Instrument Sans", sans-serif;
+  font-size: 10.5px;
+  font-weight: 600;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: rgba(29, 28, 25, 0.5);
+  pointer-events: none;
+}
+
+.editorialMetaGroup {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+}
+
+.editorialDot {
+  display: inline-block;
+  width: 4px;
+  height: 4px;
+  border-radius: 50%;
+  background-color: rgb(83, 96, 82);
+}
+
+/* --------------------------------------------------------------------------
+   Layer 2 & 3: Hero Right Wrapper & Collage Atmosphere
+   -------------------------------------------------------------------------- */
+
+.heroRightWrapper {
+  position: relative;
+  flex: 0 0 auto;
+  width: 574px;
+  height: 540px;
+  z-index: 2;
+}
+
+/* Layer 3 Foreground: Main Roomify Hero Interior Photo (Single Hero Visual) */
+.mainHeroPhotoLayer {
+  position: relative;
+  z-index: 3 !important;
+  width: 100% !important;
+  max-width: 574px !important;
+  height: 540px !important;
+  border-radius: 4px;
+  overflow: hidden;
+  box-shadow: 
+    0 16px 40px rgba(29, 28, 25, 0.12),
+    0 2px 8px rgba(29, 28, 25, 0.05);
+}
+
+.mainHeroPhotoLayer > div:first-child {
+  width: 100% !important;
+  max-width: 100% !important;
+  height: 100% !important;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.mainHeroPhotoLayer img {
+  width: 100% !important;
+  height: 100% !important;
+  object-fit: cover !important;
+  object-position: center !important;
+  display: block;
+}
+
+/* Technical Blueprint Annotation Labels */
+.technicalCalloutTop {
+  position: absolute;
+  top: -14px;
+  left: 12px;
+  font-family: "Instrument Sans", sans-serif;
+  font-size: 9.5px;
+  font-weight: 600;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: rgba(29, 28, 25, 0.65);
+  background-color: rgba(244, 241, 235, 0.94);
+  padding: 3px 8px;
+  border-radius: 2px;
+  border: 1px solid rgba(29, 28, 25, 0.14);
+  z-index: 4;
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.technicalCalloutBottom {
+  position: absolute;
+  bottom: -16px;
+  right: 18px;
+  font-family: "Instrument Sans", sans-serif;
+  font-size: 9.5px;
+  font-weight: 600;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: rgba(29, 28, 25, 0.65);
+  background-color: rgba(244, 241, 235, 0.94);
+  padding: 3px 8px;
+  border-radius: 2px;
+  border: 1px solid rgba(29, 28, 25, 0.14);
+  z-index: 4;
+  white-space: nowrap;
+}
+
+/* Material sample card on bottom-left of hero image */
+.materialsStudyCard {
+  position: absolute;
+  bottom: 24px;
+  left: -32px;
+  background-color: rgba(244, 241, 235, 0.96);
+  border: 1px solid rgba(29, 28, 25, 0.16);
+  border-radius: 3px;
+  padding: 10px 14px;
+  z-index: 4;
+  box-shadow: 0 4px 14px rgba(29, 28, 25, 0.08);
+  backdrop-filter: blur(4px);
+  pointer-events: none;
+}
+
+.materialsHeader {
+  font-family: "Instrument Sans", sans-serif;
+  font-size: 9px;
+  font-weight: 700;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: rgb(83, 96, 82);
+  margin: 0 0 4px;
+  display: flex;
+  align-items: center;
+  gap: 4px;
+}
+
+.materialsItem {
+  font-family: "Instrument Sans", sans-serif;
+  font-size: 10px;
+  font-weight: 500;
+  color: rgba(29, 28, 25, 0.8);
+  margin: 0;
+  line-height: 1.45;
+}
+
+/* Framing corners for the main hero image */
+.cornerFrameTL, .cornerFrameBR {
+  position: absolute;
+  width: 14px;
+  height: 14px;
+  z-index: 4;
+  pointer-events: none;
+}
+
+.cornerFrameTL {
+  top: -4px;
+  left: -4px;
+  border-top: 2px solid rgb(29, 28, 25);
+  border-left: 2px solid rgb(29, 28, 25);
+}
+
+.cornerFrameBR {
+  bottom: -4px;
+  right: -4px;
+  border-bottom: 2px solid rgb(29, 28, 25);
+  border-right: 2px solid rgb(29, 28, 25);
+}
+
+/* --------------------------------------------------------------------------
+   Responsive Rules
+   -------------------------------------------------------------------------- */
+
+@media (max-width: 1024px) {
+  .blueprintWatermark {
+    font-size: 90px;
+    top: 10px;
+  }
+
+  .floorPlanLinework {
+    width: 440px;
+    height: 380px;
+    opacity: 0.45;
+  }
+
+  .materialsStudyCard {
+    left: -12px;
+  }
+}
+
+@media (max-width: 860px) {
+  .editorialHeaderBar {
+    position: static;
+    margin-bottom: 16px;
+    padding-bottom: 6px;
+  }
+
+  .materialsStudyCard {
+    display: none;
+  }
+
+  .floorPlanLinework {
+    display: none;
+  }
+
+  .blueprintWatermark {
+    display: none;
+  }
+
+  .heroRightWrapper {
+    width: 100%;
+    max-width: 100%;
+    height: auto;
+  }
+
+  .mainHeroPhotoLayer {
+    width: 100% !important;
+    max-width: 100% !important;
+    height: 380px !important;
+  }
+
+  .mainHeroPhotoLayer > div:first-child {
+    height: 380px !important;
+  }
+
+  .technicalCalloutTop,
+  .technicalCalloutBottom {
+    font-size: 8.5px;
+    padding: 2px 6px;
+  }
+}
+
+@media (max-width: 640px) {
+  .mainHeroPhotoLayer {
+    height: 300px !important;
+  }
+
+  .mainHeroPhotoLayer > div:first-child {
+    height: 300px !important;
+  }
+}
