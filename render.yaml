@@ -17,6 +17,6 @@ services:
       - key: CLOUDFLARE_API_TOKEN
         sync: false
       - key: CLOUDFLARE_IMAGE_MODEL
-        value: @cf/black-forest-labs/flux-2-klein-4b
+        value: "@cf/black-forest-labs/flux-2-klein-4b"
       - key: OPENAI_API_KEY
         sync: false
